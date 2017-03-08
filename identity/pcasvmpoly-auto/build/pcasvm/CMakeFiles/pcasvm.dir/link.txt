@@ -1,0 +1,2 @@
+/usr/bin/ar cr libpcasvm.a  CMakeFiles/pcasvm.dir/PCASVM.cpp.o CMakeFiles/pcasvm.dir/SVM.cpp.o
+/usr/bin/ranlib libpcasvm.a

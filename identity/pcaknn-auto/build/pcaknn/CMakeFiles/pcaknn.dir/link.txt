@@ -1,0 +1,2 @@
+/usr/bin/ar cr libpcaknn.a  CMakeFiles/pcaknn.dir/PCAKNN.cpp.o
+/usr/bin/ranlib libpcaknn.a

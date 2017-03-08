@@ -1,0 +1,2929 @@
+Usage: dataset.txt target.png k
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/dwr00_287.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/hsn00e_918.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/dsl00m_117.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/cjf00_326.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/pjc99_352.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/om00e_130.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/jcl100m_523.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/mp400_470.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/pba99_892.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/crn99_52.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/kl100_496.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/tcl00_670.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/wyt98_339.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/jdl99_905.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/arr00_827.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/paj00_313.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/pjw00_182.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/dg00_195.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/gatj98_762.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/mha00_248.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/xw00_788.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/jasa98_775.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/tt100_866.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/dg100e_91.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/mzm00_814.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/ks200_457.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/gp200e_143.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/mf200_444.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/dm100_590.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/bdr00_697.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/era02_392.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/cmt00m_631.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/pmn00e_274.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/jnh00_104.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/rb200m_657.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/vvw00e_78.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/sft99_684.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/jr200_221.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/tel99_710.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/jcs100_208.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/ap400_261.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/chy00_644.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/sc300m_483.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/jhb02_405.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/jwa00_931.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/tjw00m_549.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/mh500_431.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/ad499_379.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/yjs00e_736.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/ic100e_26.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/svk00_300.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/jl400_616.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/jac100e_65.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/tjh99_39.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/jdd00e_749.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/drj00_603.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/lm02_577.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/jb300e_235.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/pm00_879.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_4/frown/mdm100_169.vtk
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/tjw00m_548.vtk
+This is the complete number of points of no.0 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/hsn00e_917.vtk
+This is the complete number of points of no.1 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/arr00_826.vtk
+This is the complete number of points of no.2 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/pmn00e_273.vtk
+This is the complete number of points of no.3 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/jb300e_234.vtk
+This is the complete number of points of no.4 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/ap400_260.vtk
+This is the complete number of points of no.5 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/kl100_495.vtk
+This is the complete number of points of no.6 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/mdm100_168.vtk
+This is the complete number of points of no.7 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/dg100e_90.vtk
+This is the complete number of points of no.8 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/jhb02_404.vtk
+This is the complete number of points of no.9 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/mzm00_813.vtk
+This is the complete number of points of no.10 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/ks200_456.vtk
+This is the complete number of points of no.11 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/mh500_430.vtk
+This is the complete number of points of no.12 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/pjc99_351.vtk
+This is the complete number of points of no.13 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/jl400_615.vtk
+This is the complete number of points of no.14 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/tjh99_38.vtk
+This is the complete number of points of no.15 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/lm02_576.vtk
+This is the complete number of points of no.16 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/wyt98_338.vtk
+This is the complete number of points of no.17 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/sft99_683.vtk
+This is the complete number of points of no.18 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/mf200_443.vtk
+This is the complete number of points of no.19 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/cjf00_325.vtk
+This is the complete number of points of no.20 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/dsl00m_116.vtk
+This is the complete number of points of no.21 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/dm100_589.vtk
+This is the complete number of points of no.22 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/tcl00_669.vtk
+This is the complete number of points of no.23 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/cmt00m_630.vtk
+This is the complete number of points of no.24 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/jcs100_207.vtk
+This is the complete number of points of no.25 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/gatj98_761.vtk
+This is the complete number of points of no.26 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/jcl100m_521.vtk
+This is the complete number of points of no.27 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/ad499_378.vtk
+This is the complete number of points of no.28 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/pjw00_181.vtk
+This is the complete number of points of no.29 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/dwr00_286.vtk
+This is the complete number of points of no.30 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/bdr00_696.vtk
+This is the complete number of points of no.31 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/pm00_878.vtk
+This is the complete number of points of no.32 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/om00e_129.vtk
+This is the complete number of points of no.33 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/dg00_194.vtk
+This is the complete number of points of no.34 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/xw00_787.vtk
+This is the complete number of points of no.35 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/mha00_247.vtk
+This is the complete number of points of no.36 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/tt100_865.vtk
+This is the complete number of points of no.37 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/jasa98_774.vtk
+This is the complete number of points of no.38 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/svk00_299.vtk
+This is the complete number of points of no.39 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/jwa00_930.vtk
+This is the complete number of points of no.40 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/jdl99_904.vtk
+This is the complete number of points of no.41 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/yjs00e_735.vtk
+This is the complete number of points of no.42 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/sc300m_482.vtk
+This is the complete number of points of no.43 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/crn99_51.vtk
+This is the complete number of points of no.44 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/rb200m_656.vtk
+This is the complete number of points of no.45 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/era02_391.vtk
+This is the complete number of points of no.46 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/paj00_312.vtk
+This is the complete number of points of no.47 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/jr200_220.vtk
+This is the complete number of points of no.48 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/vvw00e_77.vtk
+This is the complete number of points of no.49 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/tel99_709.vtk
+This is the complete number of points of no.50 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/drj00_602.vtk
+This is the complete number of points of no.51 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/chy00_643.vtk
+This is the complete number of points of no.52 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/jdd00e_748.vtk
+This is the complete number of points of no.53 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/jac100e_64.vtk
+This is the complete number of points of no.54 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/ic100e_25.vtk
+This is the complete number of points of no.55 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/jnh00_103.vtk
+This is the complete number of points of no.56 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/pba99_891.vtk
+This is the complete number of points of no.57 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/gp200e_142.vtk
+This is the complete number of points of no.58 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/smile/mp400_469.vtk
+This is the complete number of points of no.59 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/jhb02_401.vtk
+This is the complete number of points of no.60 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/ap400_257.vtk
+This is the complete number of points of no.61 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/mf200_440.vtk
+This is the complete number of points of no.62 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/lm02_573.vtk
+This is the complete number of points of no.63 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/crn99_48.vtk
+This is the complete number of points of no.64 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/cmt00m_627.vtk
+This is the complete number of points of no.65 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/tel99_706.vtk
+This is the complete number of points of no.66 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/pmn00e_270.vtk
+This is the complete number of points of no.67 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/kl100_492.vtk
+This is the complete number of points of no.68 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/mp400_466.vtk
+This is the complete number of points of no.69 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/era02_388.vtk
+This is the complete number of points of no.70 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/jnh00_100.vtk
+This is the complete number of points of no.71 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/mh500_427.vtk
+This is the complete number of points of no.72 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/pjw00_178.vtk
+This is the complete number of points of no.73 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/jl400_612.vtk
+This is the complete number of points of no.74 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/pjc99_348.vtk
+This is the complete number of points of no.75 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/ad499_375.vtk
+This is the complete number of points of no.76 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/tt100_862.vtk
+This is the complete number of points of no.77 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/arr00_823.vtk
+This is the complete number of points of no.78 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/cjf00_322.vtk
+This is the complete number of points of no.79 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/mdm100_165.vtk
+This is the complete number of points of no.80 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/pm00_875.vtk
+This is the complete number of points of no.81 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/om00e_126.vtk
+This is the complete number of points of no.82 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/sc300m_479.vtk
+This is the complete number of points of no.83 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/vvw00e_74.vtk
+This is the complete number of points of no.84 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/jr200_217.vtk
+This is the complete number of points of no.85 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/jcl100m_518.vtk
+This is the complete number of points of no.86 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/dg100e_87.vtk
+This is the complete number of points of no.87 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/ks200_453.vtk
+This is the complete number of points of no.88 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/dm100_586.vtk
+This is the complete number of points of no.89 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/xw00_784.vtk
+This is the complete number of points of no.90 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/bdr00_693.vtk
+This is the complete number of points of no.91 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/yjs00e_732.vtk
+This is the complete number of points of no.92 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/drj00_599.vtk
+This is the complete number of points of no.93 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/mzm00_810.vtk
+This is the complete number of points of no.94 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/svk00_296.vtk
+This is the complete number of points of no.95 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/tcl00_666.vtk
+This is the complete number of points of no.96 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/jcs100_204.vtk
+This is the complete number of points of no.97 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/dwr00_283.vtk
+This is the complete number of points of no.98 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/pba99_888.vtk
+This is the complete number of points of no.99 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/ic100e_22.vtk
+This is the complete number of points of no.100 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/dsl00m_113.vtk
+This is the complete number of points of no.101 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/dg00_191.vtk
+This is the complete number of points of no.102 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/jwa00_927.vtk
+This is the complete number of points of no.103 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/jb300e_231.vtk
+This is the complete number of points of no.104 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/wyt98_335.vtk
+This is the complete number of points of no.105 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/jac100e_61.vtk
+This is the complete number of points of no.106 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/sft99_680.vtk
+This is the complete number of points of no.107 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/gatj98_758.vtk
+This is the complete number of points of no.108 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/gp200e_139.vtk
+This is the complete number of points of no.109 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/paj00_309.vtk
+This is the complete number of points of no.110 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/tjh99_35.vtk
+This is the complete number of points of no.111 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/jdd00e_745.vtk
+This is the complete number of points of no.112 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/jasa98_771.vtk
+This is the complete number of points of no.113 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/chy00_640.vtk
+This is the complete number of points of no.114 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/mha00_244.vtk
+This is the complete number of points of no.115 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/tjw00m_545.vtk
+This is the complete number of points of no.116 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/rb200m_653.vtk
+This is the complete number of points of no.117 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/hsn00e_914.vtk
+This is the complete number of points of no.118 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral2/jdl99_901.vtk
+This is the complete number of points of no.119 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/crn99_43.vtk
+This is the complete number of points of no.120 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/mdm100_160.vtk
+This is the complete number of points of no.121 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/ks200_448.vtk
+This is the complete number of points of no.122 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/tjw00m_540.vtk
+This is the complete number of points of no.123 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/dm100_581.vtk
+This is the complete number of points of no.124 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/gatj98_753.vtk
+This is the complete number of points of no.125 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/tjh99_30.vtk
+This is the complete number of points of no.126 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/paj00_304.vtk
+This is the complete number of points of no.127 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/dg100e_82.vtk
+This is the complete number of points of no.128 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/jdd00e_740.vtk
+This is the complete number of points of no.129 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/pba99_883.vtk
+This is the complete number of points of no.130 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/xw00_779.vtk
+This is the complete number of points of no.131 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/pm00_870.vtk
+This is the complete number of points of no.132 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/hsn00e_909.vtk
+This is the complete number of points of no.133 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/cjf00_317.vtk
+This is the complete number of points of no.134 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/tt100_857.vtk
+This is the complete number of points of no.135 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/lm02_566.vtk
+This is the complete number of points of no.136 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/jb300e_226.vtk
+This is the complete number of points of no.137 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/jcl100m_513.vtk
+This is the complete number of points of no.138 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/pjc99_343.vtk
+This is the complete number of points of no.139 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/mf200_435.vtk
+This is the complete number of points of no.140 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/dg00_186.vtk
+This is the complete number of points of no.141 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/jl400_607.vtk
+This is the complete number of points of no.142 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/wyt98_330.vtk
+This is the complete number of points of no.143 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/era02_383.vtk
+This is the complete number of points of no.144 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/ap400_252.vtk
+This is the complete number of points of no.145 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/mzm00_805.vtk
+This is the complete number of points of no.146 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/sc300m_474.vtk
+This is the complete number of points of no.147 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/jac100e_56.vtk
+This is the complete number of points of no.148 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/dsl00m_108.vtk
+This is the complete number of points of no.149 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/jnh00_95.vtk
+This is the complete number of points of no.150 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/arr00_818.vtk
+This is the complete number of points of no.151 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/dwr00_278.vtk
+This is the complete number of points of no.152 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/om00e_121.vtk
+This is the complete number of points of no.153 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/ad499_370.vtk
+This is the complete number of points of no.154 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/gp200e_134.vtk
+This is the complete number of points of no.155 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/mha00_239.vtk
+This is the complete number of points of no.156 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/jdl99_896.vtk
+This is the complete number of points of no.157 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/jwa00_922.vtk
+This is the complete number of points of no.158 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/jhb02_396.vtk
+This is the complete number of points of no.159 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/svk00_291.vtk
+This is the complete number of points of no.160 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/ic100e_17.vtk
+This is the complete number of points of no.161 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/yjs00e_727.vtk
+This is the complete number of points of no.162 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/chy00_635.vtk
+This is the complete number of points of no.163 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/vvw00e_69.vtk
+This is the complete number of points of no.164 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/jasa98_766.vtk
+This is the complete number of points of no.165 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/rb200m_648.vtk
+This is the complete number of points of no.166 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/mp400_461.vtk
+This is the complete number of points of no.167 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/bdr00_688.vtk
+This is the complete number of points of no.168 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/jr200_212.vtk
+This is the complete number of points of no.169 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/cmt00m_622.vtk
+This is the complete number of points of no.170 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/tcl00_661.vtk
+This is the complete number of points of no.171 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/kl100_487.vtk
+This is the complete number of points of no.172 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/pmn00e_265.vtk
+This is the complete number of points of no.173 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/tel99_701.vtk
+This is the complete number of points of no.174 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/jcs100_199.vtk
+This is the complete number of points of no.175 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/mh500_422.vtk
+This is the complete number of points of no.176 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/sft99_675.vtk
+This is the complete number of points of no.177 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/pjw00_173.vtk
+This is the complete number of points of no.178 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces4/neutral1/drj00_594.vtk
+This is the complete number of points of no.179 face.
+This is the width
+3
+This is the height
+5090
+180
+Preparing samples 1/180
+Preparing samples 2/180
+Preparing samples 3/180
+Preparing samples 4/180
+Preparing samples 5/180
+Preparing samples 6/180
+Preparing samples 7/180
+Preparing samples 8/180
+Preparing samples 9/180
+Preparing samples 10/180
+Preparing samples 11/180
+Preparing samples 12/180
+Preparing samples 13/180
+Preparing samples 14/180
+Preparing samples 15/180
+Preparing samples 16/180
+Preparing samples 17/180
+Preparing samples 18/180
+Preparing samples 19/180
+Preparing samples 20/180
+Preparing samples 21/180
+Preparing samples 22/180
+Preparing samples 23/180
+Preparing samples 24/180
+Preparing samples 25/180
+Preparing samples 26/180
+Preparing samples 27/180
+Preparing samples 28/180
+Preparing samples 29/180
+Preparing samples 30/180
+Preparing samples 31/180
+Preparing samples 32/180
+Preparing samples 33/180
+Preparing samples 34/180
+Preparing samples 35/180
+Preparing samples 36/180
+Preparing samples 37/180
+Preparing samples 38/180
+Preparing samples 39/180
+Preparing samples 40/180
+Preparing samples 41/180
+Preparing samples 42/180
+Preparing samples 43/180
+Preparing samples 44/180
+Preparing samples 45/180
+Preparing samples 46/180
+Preparing samples 47/180
+Preparing samples 48/180
+Preparing samples 49/180
+Preparing samples 50/180
+Preparing samples 51/180
+Preparing samples 52/180
+Preparing samples 53/180
+Preparing samples 54/180
+Preparing samples 55/180
+Preparing samples 56/180
+Preparing samples 57/180
+Preparing samples 58/180
+Preparing samples 59/180
+Preparing samples 60/180
+Preparing samples 61/180
+Preparing samples 62/180
+Preparing samples 63/180
+Preparing samples 64/180
+Preparing samples 65/180
+Preparing samples 66/180
+Preparing samples 67/180
+Preparing samples 68/180
+Preparing samples 69/180
+Preparing samples 70/180
+Preparing samples 71/180
+Preparing samples 72/180
+Preparing samples 73/180
+Preparing samples 74/180
+Preparing samples 75/180
+Preparing samples 76/180
+Preparing samples 77/180
+Preparing samples 78/180
+Preparing samples 79/180
+Preparing samples 80/180
+Preparing samples 81/180
+Preparing samples 82/180
+Preparing samples 83/180
+Preparing samples 84/180
+Preparing samples 85/180
+Preparing samples 86/180
+Preparing samples 87/180
+Preparing samples 88/180
+Preparing samples 89/180
+Preparing samples 90/180
+Preparing samples 91/180
+Preparing samples 92/180
+Preparing samples 93/180
+Preparing samples 94/180
+Preparing samples 95/180
+Preparing samples 96/180
+Preparing samples 97/180
+Preparing samples 98/180
+Preparing samples 99/180
+Preparing samples 100/180
+Preparing samples 101/180
+Preparing samples 102/180
+Preparing samples 103/180
+Preparing samples 104/180
+Preparing samples 105/180
+Preparing samples 106/180
+Preparing samples 107/180
+Preparing samples 108/180
+Preparing samples 109/180
+Preparing samples 110/180
+Preparing samples 111/180
+Preparing samples 112/180
+Preparing samples 113/180
+Preparing samples 114/180
+Preparing samples 115/180
+Preparing samples 116/180
+Preparing samples 117/180
+Preparing samples 118/180
+Preparing samples 119/180
+Preparing samples 120/180
+Preparing samples 121/180
+Preparing samples 122/180
+Preparing samples 123/180
+Preparing samples 124/180
+Preparing samples 125/180
+Preparing samples 126/180
+Preparing samples 127/180
+Preparing samples 128/180
+Preparing samples 129/180
+Preparing samples 130/180
+Preparing samples 131/180
+Preparing samples 132/180
+Preparing samples 133/180
+Preparing samples 134/180
+Preparing samples 135/180
+Preparing samples 136/180
+Preparing samples 137/180
+Preparing samples 138/180
+Preparing samples 139/180
+Preparing samples 140/180
+Preparing samples 141/180
+Preparing samples 142/180
+Preparing samples 143/180
+Preparing samples 144/180
+Preparing samples 145/180
+Preparing samples 146/180
+Preparing samples 147/180
+Preparing samples 148/180
+Preparing samples 149/180
+Preparing samples 150/180
+Preparing samples 151/180
+Preparing samples 152/180
+Preparing samples 153/180
+Preparing samples 154/180
+Preparing samples 155/180
+Preparing samples 156/180
+Preparing samples 157/180
+Preparing samples 158/180
+Preparing samples 159/180
+Preparing samples 160/180
+Preparing samples 161/180
+Preparing samples 162/180
+Preparing samples 163/180
+Preparing samples 164/180
+Preparing samples 165/180
+Preparing samples 166/180
+Preparing samples 167/180
+Preparing samples 168/180
+Preparing samples 169/180
+Preparing samples 170/180
+Preparing samples 171/180
+Preparing samples 172/180
+Preparing samples 173/180
+Preparing samples 174/180
+Preparing samples 175/180
+Preparing samples 176/180
+Preparing samples 177/180
+Preparing samples 178/180
+Preparing samples 179/180
+Preparing samples 180/180
+TRAINING...
+Projecting 1/180
+Projecting 2/180
+Projecting 3/180
+Projecting 4/180
+Projecting 5/180
+Projecting 6/180
+Projecting 7/180
+Projecting 8/180
+Projecting 9/180
+Projecting 10/180
+Projecting 11/180
+Projecting 12/180
+Projecting 13/180
+Projecting 14/180
+Projecting 15/180
+Projecting 16/180
+Projecting 17/180
+Projecting 18/180
+Projecting 19/180
+Projecting 20/180
+Projecting 21/180
+Projecting 22/180
+Projecting 23/180
+Projecting 24/180
+Projecting 25/180
+Projecting 26/180
+Projecting 27/180
+Projecting 28/180
+Projecting 29/180
+Projecting 30/180
+Projecting 31/180
+Projecting 32/180
+Projecting 33/180
+Projecting 34/180
+Projecting 35/180
+Projecting 36/180
+Projecting 37/180
+Projecting 38/180
+Projecting 39/180
+Projecting 40/180
+Projecting 41/180
+Projecting 42/180
+Projecting 43/180
+Projecting 44/180
+Projecting 45/180
+Projecting 46/180
+Projecting 47/180
+Projecting 48/180
+Projecting 49/180
+Projecting 50/180
+Projecting 51/180
+Projecting 52/180
+Projecting 53/180
+Projecting 54/180
+Projecting 55/180
+Projecting 56/180
+Projecting 57/180
+Projecting 58/180
+Projecting 59/180
+Projecting 60/180
+Projecting 61/180
+Projecting 62/180
+Projecting 63/180
+Projecting 64/180
+Projecting 65/180
+Projecting 66/180
+Projecting 67/180
+Projecting 68/180
+Projecting 69/180
+Projecting 70/180
+Projecting 71/180
+Projecting 72/180
+Projecting 73/180
+Projecting 74/180
+Projecting 75/180
+Projecting 76/180
+Projecting 77/180
+Projecting 78/180
+Projecting 79/180
+Projecting 80/180
+Projecting 81/180
+Projecting 82/180
+Projecting 83/180
+Projecting 84/180
+Projecting 85/180
+Projecting 86/180
+Projecting 87/180
+Projecting 88/180
+Projecting 89/180
+Projecting 90/180
+Projecting 91/180
+Projecting 92/180
+Projecting 93/180
+Projecting 94/180
+Projecting 95/180
+Projecting 96/180
+Projecting 97/180
+Projecting 98/180
+Projecting 99/180
+Projecting 100/180
+Projecting 101/180
+Projecting 102/180
+Projecting 103/180
+Projecting 104/180
+Projecting 105/180
+Projecting 106/180
+Projecting 107/180
+Projecting 108/180
+Projecting 109/180
+Projecting 110/180
+Projecting 111/180
+Projecting 112/180
+Projecting 113/180
+Projecting 114/180
+Projecting 115/180
+Projecting 116/180
+Projecting 117/180
+Projecting 118/180
+Projecting 119/180
+Projecting 120/180
+Projecting 121/180
+Projecting 122/180
+Projecting 123/180
+Projecting 124/180
+Projecting 125/180
+Projecting 126/180
+Projecting 127/180
+Projecting 128/180
+Projecting 129/180
+Projecting 130/180
+Projecting 131/180
+Projecting 132/180
+Projecting 133/180
+Projecting 134/180
+Projecting 135/180
+Projecting 136/180
+Projecting 137/180
+Projecting 138/180
+Projecting 139/180
+Projecting 140/180
+Projecting 141/180
+Projecting 142/180
+Projecting 143/180
+Projecting 144/180
+Projecting 145/180
+Projecting 146/180
+Projecting 147/180
+Projecting 148/180
+Projecting 149/180
+Projecting 150/180
+Projecting 151/180
+Projecting 152/180
+Projecting 153/180
+Projecting 154/180
+Projecting 155/180
+Projecting 156/180
+Projecting 157/180
+Projecting 158/180
+Projecting 159/180
+Projecting 160/180
+Projecting 161/180
+Projecting 162/180
+Projecting 163/180
+Projecting 164/180
+Projecting 165/180
+Projecting 166/180
+Projecting 167/180
+Projecting 168/180
+Projecting 169/180
+Projecting 170/180
+Projecting 171/180
+Projecting 172/180
+Projecting 173/180
+Projecting 174/180
+Projecting 175/180
+Projecting 176/180
+Projecting 177/180
+Projecting 178/180
+Projecting 179/180
+Projecting 180/180
+This is the width of the first testing face: 3
+This is the height of the first testing face: 5090
+60
+until here no problem
+Preparing samples 1/60
+Preparing samples 2/60
+Preparing samples 3/60
+Preparing samples 4/60
+Preparing samples 5/60
+Preparing samples 6/60
+Preparing samples 7/60
+Preparing samples 8/60
+Preparing samples 9/60
+Preparing samples 10/60
+Preparing samples 11/60
+Preparing samples 12/60
+Preparing samples 13/60
+Preparing samples 14/60
+Preparing samples 15/60
+Preparing samples 16/60
+Preparing samples 17/60
+Preparing samples 18/60
+Preparing samples 19/60
+Preparing samples 20/60
+Preparing samples 21/60
+Preparing samples 22/60
+Preparing samples 23/60
+Preparing samples 24/60
+Preparing samples 25/60
+Preparing samples 26/60
+Preparing samples 27/60
+Preparing samples 28/60
+Preparing samples 29/60
+Preparing samples 30/60
+Preparing samples 31/60
+Preparing samples 32/60
+Preparing samples 33/60
+Preparing samples 34/60
+Preparing samples 35/60
+Preparing samples 36/60
+Preparing samples 37/60
+Preparing samples 38/60
+Preparing samples 39/60
+Preparing samples 40/60
+Preparing samples 41/60
+Preparing samples 42/60
+Preparing samples 43/60
+Preparing samples 44/60
+Preparing samples 45/60
+Preparing samples 46/60
+Preparing samples 47/60
+Preparing samples 48/60
+Preparing samples 49/60
+Preparing samples 50/60
+Preparing samples 51/60
+Preparing samples 52/60
+Preparing samples 53/60
+Preparing samples 54/60
+Preparing samples 55/60
+Preparing samples 56/60
+Preparing samples 57/60
+Preparing samples 58/60
+Preparing samples 59/60
+Preparing samples 60/60
+Projecting 1/60
+Weighting points: ad499 337.753699
+Weighting points: ap400 341.949061
+Weighting points: arr00 377.844486
+Weighting points: bdr00 359.552565
+Weighting points: cjf00 338.310858
+Weighting points: cmt00m 341.252786
+Weighting points: crn99 367.095200
+Weighting points: dg00 388.107511
+Weighting points: dg100e 365.323484
+Weighting points: dm100 321.385328
+Weighting points: drj00 401.390476
+Weighting points: dsl00m 294.627456
+Weighting points: dwr00 217.543571
+Weighting points: gatj98 263.998621
+Weighting points: gp200e 357.196679
+Weighting points: hsn00e 318.584534
+Weighting points: jac100e 393.558005
+Weighting points: jasa98 321.342195
+Weighting points: jcl100m 402.092640
+Weighting points: jcs100 320.557164
+Weighting points: jdl99 300.366753
+Weighting points: jl400 254.539951
+Weighting points: jnh00 390.371466
+Weighting points: jr200 320.623080
+Weighting points: lm02 312.847592
+Weighting points: mdm100 346.748916
+Weighting points: mf200 353.070772
+Weighting points: mha00 373.196931
+Weighting points: mzm00 359.501036
+Weighting points: pba99 300.252614
+Weighting points: pjw00 375.988631
+Weighting points: pm00 320.856912
+Weighting points: pmn00e 380.395305
+Weighting points: rb200m 299.952437
+Weighting points: sc300m 397.582411
+Weighting points: sft99 358.377912
+Weighting points: svk00 325.178148
+Weighting points: tel99 407.454208
+Weighting points: tjh99 353.925508
+Weighting points: tjw00m 354.272990
+Weighting points: yjs00e 366.828937
+The tested faces 0 is: dwr00
+The output of the recognized class: dwr00
+Projecting 2/60
+Weighting points: bdr00 185.778681
+Weighting points: cmt00m 269.197164
+Weighting points: crn99 242.371002
+Weighting points: dg00 270.917009
+Weighting points: dg100e 265.339241
+Weighting points: dm100 323.417601
+Weighting points: drj00 261.517885
+Weighting points: dsl00m 244.753908
+Weighting points: gatj98 317.842567
+Weighting points: hsn00e 213.010188
+Weighting points: jac100e 224.623251
+Weighting points: jb300e 312.139018
+Weighting points: jnh00 308.819879
+Weighting points: jr200 253.992555
+Weighting points: jwa00 217.833508
+Weighting points: lm02 318.351316
+Weighting points: mdm100 309.744723
+Weighting points: mf200 312.920266
+Weighting points: paj00 317.916169
+Weighting points: pba99 268.950964
+Weighting points: pjc99 231.722871
+Weighting points: pjw00 308.544310
+Weighting points: pm00 276.400861
+Weighting points: rb200m 257.260634
+Weighting points: sft99 306.022538
+Weighting points: svk00 308.270535
+Weighting points: tjh99 310.159588
+Weighting points: tjw00m 242.863929
+Weighting points: tt100 268.051421
+Weighting points: vvw00e 308.970296
+The tested faces 1 is: hsn00e
+The output of the recognized class: bdr00
+Projecting 3/60
+Weighting points: bdr00 282.007198
+Weighting points: cmt00m 312.147999
+Weighting points: crn99 321.165922
+Weighting points: dg00 274.571538
+Weighting points: dg100e 335.183515
+Weighting points: drj00 312.686849
+Weighting points: dsl00m 239.149844
+Weighting points: dwr00 334.026235
+Weighting points: gatj98 327.037524
+Weighting points: hsn00e 283.726019
+Weighting points: ic100e 337.668941
+Weighting points: jac100e 229.719770
+Weighting points: jb300e 352.282891
+Weighting points: jnh00 312.021584
+Weighting points: jr200 292.918022
+Weighting points: jwa00 228.276617
+Weighting points: lm02 296.086464
+Weighting points: mdm100 352.159222
+Weighting points: om00e 286.376461
+Weighting points: pba99 236.245350
+Weighting points: pjc99 271.556938
+Weighting points: pjw00 335.930193
+Weighting points: pm00 266.827608
+Weighting points: rb200m 315.552173
+Weighting points: sft99 301.534128
+Weighting points: svk00 341.583513
+Weighting points: tjh99 321.044558
+Weighting points: tjw00m 298.157461
+Weighting points: tt100 291.650075
+Weighting points: vvw00e 296.339307
+The tested faces 2 is: dsl00m
+The output of the recognized class: jwa00
+Projecting 4/60
+Weighting points: ap400 339.662264
+Weighting points: bdr00 334.787233
+Weighting points: cjf00 130.665037
+Weighting points: cmt00m 316.202629
+Weighting points: crn99 329.212463
+Weighting points: dg00 305.636650
+Weighting points: dg100e 342.144534
+Weighting points: dm100 336.711046
+Weighting points: drj00 334.966052
+Weighting points: dsl00m 324.821720
+Weighting points: era02 344.645236
+Weighting points: hsn00e 338.333401
+Weighting points: ic100e 321.205366
+Weighting points: jb300e 292.790206
+Weighting points: jcs100 349.699666
+Weighting points: jdd00e 330.743376
+Weighting points: jdl99 296.944754
+Weighting points: jl400 276.961660
+Weighting points: jnh00 221.561554
+Weighting points: jr200 301.722257
+Weighting points: jwa00 285.841732
+Weighting points: kl100 296.110354
+Weighting points: ks200 277.959366
+Weighting points: mdm100 337.312349
+Weighting points: mf200 257.757116
+Weighting points: mh500 323.581283
+Weighting points: mp400 293.472308
+Weighting points: paj00 297.265383
+Weighting points: pjc99 221.456681
+Weighting points: pjw00 350.155972
+Weighting points: pmn00e 285.495969
+Weighting points: tel99 299.002064
+Weighting points: tjh99 336.650305
+Weighting points: yjs00e 285.200911
+The tested faces 3 is: cjf00
+The output of the recognized class: cjf00
+Projecting 5/60
+Weighting points: bdr00 257.107401
+Weighting points: cjf00 333.069774
+Weighting points: cmt00m 289.067435
+Weighting points: crn99 341.992927
+Weighting points: dg00 267.862890
+Weighting points: dg100e 354.765513
+Weighting points: drj00 329.563906
+Weighting points: dsl00m 284.085802
+Weighting points: hsn00e 314.599395
+Weighting points: ic100e 308.394862
+Weighting points: jac100e 330.915239
+Weighting points: jb300e 311.980694
+Weighting points: jl400 296.209552
+Weighting points: jnh00 306.406862
+Weighting points: jr200 243.352654
+Weighting points: jwa00 291.521255
+Weighting points: mdm100 266.330505
+Weighting points: mf200 280.349960
+Weighting points: mh500 267.672688
+Weighting points: om00e 334.668700
+Weighting points: paj00 323.737295
+Weighting points: pba99 311.708068
+Weighting points: pjc99 216.242460
+Weighting points: pjw00 287.945753
+Weighting points: pm00 275.816794
+Weighting points: pmn00e 331.750693
+Weighting points: svk00 331.177520
+Weighting points: tjh99 299.072343
+Weighting points: tt100 330.799679
+Weighting points: vvw00e 317.913926
+Weighting points: yjs00e 330.361309
+The tested faces 4 is: pjc99
+The output of the recognized class: pjc99
+Projecting 6/60
+Weighting points: bdr00 380.056470
+Weighting points: cmt00m 463.291961
+Weighting points: dg00 486.014393
+Weighting points: dg100e 473.401444
+Weighting points: drj00 473.556511
+Weighting points: dsl00m 416.787260
+Weighting points: hsn00e 476.592982
+Weighting points: ic100e 425.459857
+Weighting points: jac100e 395.298306
+Weighting points: jb300e 455.239561
+Weighting points: jcl100m 457.071933
+Weighting points: jnh00 479.190483
+Weighting points: jr200 443.184522
+Weighting points: jwa00 436.849144
+Weighting points: lm02 319.028913
+Weighting points: mdm100 410.561161
+Weighting points: mf200 477.993865
+Weighting points: mh500 447.190308
+Weighting points: om00e 239.139261
+Weighting points: pba99 302.687779
+Weighting points: pjc99 439.748517
+Weighting points: pjw00 413.302655
+Weighting points: pm00 398.089734
+Weighting points: sft99 426.432025
+Weighting points: svk00 452.311688
+Weighting points: tjh99 409.376896
+Weighting points: tt100 419.554106
+Weighting points: vvw00e 288.178631
+The tested faces 5 is: om00e
+The output of the recognized class: om00e
+Projecting 7/60
+Weighting points: arr00 360.593560
+Weighting points: bdr00 313.582357
+Weighting points: crn99 341.431031
+Weighting points: dg00 335.298151
+Weighting points: dg100e 338.051990
+Weighting points: drj00 343.510640
+Weighting points: dsl00m 350.705738
+Weighting points: gp200e 343.166978
+Weighting points: hsn00e 349.964112
+Weighting points: ic100e 353.871758
+Weighting points: jac100e 318.141036
+Weighting points: jasa98 369.251097
+Weighting points: jb300e 338.767123
+Weighting points: jcl100m 219.503420
+Weighting points: jcs100 357.493656
+Weighting points: jdl99 348.721634
+Weighting points: jnh00 321.348682
+Weighting points: jr200 335.468210
+Weighting points: jwa00 263.784228
+Weighting points: lm02 331.654908
+Weighting points: mdm100 349.562862
+Weighting points: mzm00 314.067147
+Weighting points: om00e 342.959299
+Weighting points: pjc99 310.807591
+Weighting points: pjw00 331.401690
+Weighting points: rb200m 328.141495
+Weighting points: tjh99 332.308802
+Weighting points: tjw00m 318.392465
+Weighting points: vvw00e 323.527914
+Weighting points: wyt98 331.859644
+Weighting points: xw00 359.618055
+Weighting points: yjs00e 311.192551
+The tested faces 6 is: jcl100m
+The output of the recognized class: jcl100m
+Projecting 8/60
+Weighting points: bdr00 316.513803
+Weighting points: cjf00 347.664170
+Weighting points: crn99 329.839457
+Weighting points: dg100e 314.966917
+Weighting points: dm100 357.452381
+Weighting points: drj00 299.043015
+Weighting points: hsn00e 350.295655
+Weighting points: jac100e 346.066605
+Weighting points: jasa98 327.716748
+Weighting points: jb300e 260.696352
+Weighting points: jcl100m 316.876963
+Weighting points: jdd00e 331.284048
+Weighting points: jdl99 322.754071
+Weighting points: jnh00 289.579705
+Weighting points: jr200 356.901362
+Weighting points: jwa00 329.725293
+Weighting points: kl100 299.502033
+Weighting points: ks200 345.729591
+Weighting points: mdm100 336.596143
+Weighting points: mf200 330.671118
+Weighting points: mh500 300.418940
+Weighting points: mp400 225.000688
+Weighting points: mzm00 305.785787
+Weighting points: paj00 351.058891
+Weighting points: pjc99 336.692502
+Weighting points: pjw00 243.297684
+Weighting points: pmn00e 304.077606
+Weighting points: rb200m 336.110970
+Weighting points: sc300m 328.995226
+Weighting points: tjh99 333.096561
+Weighting points: tjw00m 331.476467
+Weighting points: wyt98 313.043624
+Weighting points: yjs00e 328.603280
+The tested faces 7 is: mp400
+The output of the recognized class: mp400
+Projecting 9/60
+Weighting points: arr00 429.839538
+Weighting points: bdr00 316.559488
+Weighting points: cmt00m 354.889378
+Weighting points: crn99 424.478954
+Weighting points: dg00 395.090935
+Weighting points: dg100e 420.280386
+Weighting points: drj00 404.519594
+Weighting points: dsl00m 375.109189
+Weighting points: gatj98 372.036707
+Weighting points: hsn00e 390.695241
+Weighting points: jac100e 330.366912
+Weighting points: jb300e 420.158808
+Weighting points: jcs100 433.376620
+Weighting points: jr200 338.814531
+Weighting points: jwa00 341.354780
+Weighting points: lm02 282.013992
+Weighting points: mdm100 348.938461
+Weighting points: om00e 337.199471
+Weighting points: pba99 211.121752
+Weighting points: pjc99 311.656510
+Weighting points: pjw00 401.554949
+Weighting points: pm00 304.002284
+Weighting points: sft99 290.391854
+Weighting points: svk00 386.708606
+Weighting points: tjh99 390.874205
+Weighting points: tjw00m 400.512173
+Weighting points: tt100 306.345923
+Weighting points: vvw00e 292.488042
+The tested faces 8 is: pba99
+The output of the recognized class: pba99
+Projecting 10/60
+Weighting points: bdr00 207.253854
+Weighting points: cmt00m 272.850841
+Weighting points: crn99 236.383725
+Weighting points: dg00 274.013922
+Weighting points: dg100e 303.929902
+Weighting points: dm100 315.449274
+Weighting points: drj00 261.208601
+Weighting points: dsl00m 293.187961
+Weighting points: hsn00e 239.175844
+Weighting points: jac100e 260.391380
+Weighting points: jasa98 322.986980
+Weighting points: jb300e 312.673453
+Weighting points: jr200 257.543058
+Weighting points: jwa00 269.669977
+Weighting points: lm02 308.466712
+Weighting points: mdm100 265.908677
+Weighting points: mf200 318.774183
+Weighting points: mh500 303.314390
+Weighting points: mzm00 324.364999
+Weighting points: paj00 315.316193
+Weighting points: pba99 244.950259
+Weighting points: pjc99 273.368173
+Weighting points: pjw00 294.060712
+Weighting points: pm00 282.819195
+Weighting points: pmn00e 318.765823
+Weighting points: rb200m 285.262452
+Weighting points: sft99 321.292123
+Weighting points: svk00 312.441319
+Weighting points: tjh99 306.017892
+Weighting points: tjw00m 237.003706
+Weighting points: tt100 285.988179
+The tested faces 9 is: crn99
+The output of the recognized class: bdr00
+Projecting 11/60
+Weighting points: bdr00 360.168487
+Weighting points: chy00 347.837246
+Weighting points: cjf00 316.543721
+Weighting points: crn99 343.628370
+Weighting points: dg00 369.143785
+Weighting points: dg100e 267.440825
+Weighting points: dm100 337.925601
+Weighting points: drj00 349.010459
+Weighting points: hsn00e 333.179570
+Weighting points: jasa98 324.358555
+Weighting points: jb300e 282.736959
+Weighting points: jcl100m 373.867712
+Weighting points: jcs100 361.911319
+Weighting points: jdd00e 305.542589
+Weighting points: jdl99 315.134155
+Weighting points: jhb02 366.471705
+Weighting points: jl400 338.525986
+Weighting points: jnh00 265.409351
+Weighting points: jwa00 367.977386
+Weighting points: kl100 190.229125
+Weighting points: ks200 262.525216
+Weighting points: mdm100 366.056557
+Weighting points: mf200 288.049026
+Weighting points: mh500 324.487300
+Weighting points: mp400 290.477732
+Weighting points: paj00 348.629634
+Weighting points: pjc99 339.138103
+Weighting points: pjw00 358.175563
+Weighting points: pmn00e 367.678785
+Weighting points: rb200m 333.598572
+Weighting points: tel99 349.618896
+Weighting points: tjh99 356.437309
+Weighting points: yjs00e 352.595920
+The tested faces 10 is: kl100
+The output of the recognized class: kl100
+Projecting 12/60
+Weighting points: chy00 309.748475
+Weighting points: crn99 356.180452
+Weighting points: dg100e 392.373345
+Weighting points: dm100 381.904324
+Weighting points: drj00 328.237180
+Weighting points: gp200e 341.082385
+Weighting points: jasa98 279.617349
+Weighting points: jb300e 373.998515
+Weighting points: jcl100m 381.241250
+Weighting points: jcs100 369.366847
+Weighting points: jdl99 317.671169
+Weighting points: jhb02 340.814338
+Weighting points: jnh00 379.958270
+Weighting points: jwa00 369.420814
+Weighting points: mdm100 329.217041
+Weighting points: mha00 367.147153
+Weighting points: mp400 363.623134
+Weighting points: mzm00 301.903208
+Weighting points: paj00 378.265873
+Weighting points: pjw00 374.974872
+Weighting points: pmn00e 385.491279
+Weighting points: rb200m 339.120037
+Weighting points: sc300m 305.540572
+Weighting points: tcl00 250.722728
+Weighting points: tel99 312.265167
+Weighting points: tjh99 359.877535
+Weighting points: tjw00m 360.815428
+Weighting points: wyt98 387.735758
+Weighting points: xw00 304.132726
+Weighting points: yjs00e 305.096413
+The tested faces 11 is: tcl00
+The output of the recognized class: tcl00
+Projecting 13/60
+Weighting points: bdr00 375.570438
+Weighting points: chy00 382.700641
+Weighting points: crn99 392.776225
+Weighting points: dg100e 373.138190
+Weighting points: drj00 376.641331
+Weighting points: dsl00m 409.166839
+Weighting points: gp200e 348.455130
+Weighting points: hsn00e 401.922362
+Weighting points: jac100e 381.087330
+Weighting points: jasa98 368.407056
+Weighting points: jb300e 332.142184
+Weighting points: jcl100m 362.380354
+Weighting points: jdl99 365.591108
+Weighting points: jr200 396.108837
+Weighting points: jwa00 365.843783
+Weighting points: lm02 380.196877
+Weighting points: mdm100 390.311690
+Weighting points: mh500 378.941898
+Weighting points: mp400 378.578291
+Weighting points: mzm00 267.659297
+Weighting points: paj00 392.374162
+Weighting points: pjc99 376.870104
+Weighting points: pjw00 281.518287
+Weighting points: pmn00e 392.688565
+Weighting points: rb200m 372.826034
+Weighting points: svk00 365.125410
+Weighting points: tjh99 403.037787
+Weighting points: tjw00m 340.539959
+Weighting points: wyt98 173.341196
+Weighting points: xw00 283.345849
+Weighting points: yjs00e 348.995495
+The tested faces 12 is: wyt98
+The output of the recognized class: wyt98
+Projecting 14/60
+Weighting points: ad499 280.797065
+Weighting points: arr00 258.454724
+Weighting points: bdr00 245.181993
+Weighting points: cmt00m 294.705980
+Weighting points: crn99 230.876016
+Weighting points: dg00 295.758497
+Weighting points: dg100e 245.415172
+Weighting points: dm100 289.502361
+Weighting points: drj00 214.107349
+Weighting points: dsl00m 293.912749
+Weighting points: dwr00 292.255611
+Weighting points: gp200e 272.406918
+Weighting points: hsn00e 270.911341
+Weighting points: jasa98 233.317349
+Weighting points: jb300e 261.867240
+Weighting points: jcs100 236.909995
+Weighting points: jdl99 202.666351
+Weighting points: jl400 286.130575
+Weighting points: jr200 273.966891
+Weighting points: jwa00 268.996592
+Weighting points: mdm100 277.575362
+Weighting points: mha00 259.791135
+Weighting points: mzm00 212.845002
+Weighting points: paj00 224.542449
+Weighting points: pjc99 253.438525
+Weighting points: pjw00 263.126718
+Weighting points: pmn00e 281.482608
+Weighting points: rb200m 219.992150
+Weighting points: sc300m 247.005164
+Weighting points: tjh99 283.751906
+Weighting points: tjw00m 216.199719
+Weighting points: yjs00e 264.420038
+The tested faces 13 is: jdl99
+The output of the recognized class: jdl99
+Projecting 15/60
+Weighting points: ad499 384.091113
+Weighting points: arr00 189.218308
+Weighting points: bdr00 315.682210
+Weighting points: cmt00m 377.074621
+Weighting points: crn99 329.380942
+Weighting points: dg00 340.874696
+Weighting points: dg100e 346.921209
+Weighting points: drj00 304.575450
+Weighting points: dsl00m 383.846415
+Weighting points: dwr00 321.795883
+Weighting points: gp200e 303.271692
+Weighting points: hsn00e 366.777338
+Weighting points: jac100e 340.027237
+Weighting points: jasa98 365.376882
+Weighting points: jb300e 365.936090
+Weighting points: jcs100 297.566455
+Weighting points: jdl99 368.734320
+Weighting points: jr200 351.699947
+Weighting points: jwa00 321.412618
+Weighting points: lm02 329.875602
+Weighting points: mdm100 303.588205
+Weighting points: mzm00 343.812447
+Weighting points: pba99 326.801966
+Weighting points: pjc99 327.920018
+Weighting points: pjw00 377.679296
+Weighting points: rb200m 301.937658
+Weighting points: sft99 226.111633
+Weighting points: tjh99 287.348695
+Weighting points: tjw00m 311.294610
+Weighting points: xw00 373.973766
+Weighting points: yjs00e 371.379127
+The tested faces 14 is: arr00
+The output of the recognized class: arr00
+Projecting 16/60
+Weighting points: bdr00 249.638873
+Weighting points: cmt00m 313.719508
+Weighting points: crn99 292.873451
+Weighting points: dg00 265.252331
+Weighting points: dm100 318.464357
+Weighting points: drj00 279.145216
+Weighting points: dsl00m 307.175981
+Weighting points: hsn00e 301.755690
+Weighting points: jac100e 295.488856
+Weighting points: jasa98 332.729574
+Weighting points: jb300e 338.126435
+Weighting points: jcs100 328.083457
+Weighting points: jl400 249.159649
+Weighting points: jnh00 316.300372
+Weighting points: jr200 268.165925
+Weighting points: jwa00 265.161786
+Weighting points: mdm100 247.942656
+Weighting points: mf200 293.788313
+Weighting points: mh500 309.105085
+Weighting points: paj00 243.431266
+Weighting points: pba99 307.496214
+Weighting points: pjc99 265.063264
+Weighting points: pjw00 283.536830
+Weighting points: pm00 298.525127
+Weighting points: pmn00e 335.000721
+Weighting points: rb200m 315.406312
+Weighting points: sc300m 340.817043
+Weighting points: svk00 295.910936
+Weighting points: tjh99 277.494753
+Weighting points: tjw00m 306.264324
+Weighting points: tt100 321.488983
+Weighting points: yjs00e 340.963535
+The tested faces 15 is: paj00
+The output of the recognized class: paj00
+Projecting 17/60
+Weighting points: bdr00 208.940024
+Weighting points: cmt00m 305.531078
+Weighting points: crn99 305.420337
+Weighting points: dg100e 315.615168
+Weighting points: drj00 241.653274
+Weighting points: dsl00m 276.750988
+Weighting points: hsn00e 309.315125
+Weighting points: jac100e 265.902841
+Weighting points: jb300e 262.509881
+Weighting points: jcl100m 331.761225
+Weighting points: jnh00 314.264950
+Weighting points: jr200 293.138148
+Weighting points: jwa00 284.016795
+Weighting points: lm02 265.353331
+Weighting points: mdm100 288.341946
+Weighting points: mf200 313.508167
+Weighting points: mh500 269.511601
+Weighting points: mzm00 309.587183
+Weighting points: paj00 317.271858
+Weighting points: pba99 259.563988
+Weighting points: pjc99 287.956117
+Weighting points: pjw00 117.643273
+Weighting points: pm00 320.068294
+Weighting points: pmn00e 320.390926
+Weighting points: rb200m 312.424880
+Weighting points: sc300m 323.702654
+Weighting points: svk00 287.432098
+Weighting points: tjh99 278.138447
+Weighting points: tjw00m 290.628358
+Weighting points: tt100 304.156173
+Weighting points: wyt98 325.739758
+The tested faces 16 is: pjw00
+The output of the recognized class: pjw00
+Projecting 18/60
+Weighting points: bdr00 249.430469
+Weighting points: cmt00m 269.766255
+Weighting points: crn99 312.606608
+Weighting points: dg00 218.551986
+Weighting points: dg100e 353.943566
+Weighting points: dm100 336.828655
+Weighting points: drj00 323.815940
+Weighting points: dsl00m 286.139376
+Weighting points: hsn00e 274.779952
+Weighting points: ic100e 342.911451
+Weighting points: jac100e 328.092087
+Weighting points: jb300e 354.659588
+Weighting points: jcs100 348.865427
+Weighting points: jl400 282.588421
+Weighting points: jnh00 311.628972
+Weighting points: jr200 265.269806
+Weighting points: jwa00 279.822380
+Weighting points: mdm100 255.249939
+Weighting points: mf200 263.888123
+Weighting points: mh500 326.689139
+Weighting points: om00e 350.861715
+Weighting points: paj00 344.394104
+Weighting points: pba99 296.521676
+Weighting points: pjc99 284.379713
+Weighting points: pjw00 355.314054
+Weighting points: pm00 250.744849
+Weighting points: rb200m 352.316529
+Weighting points: svk00 333.068829
+Weighting points: tjh99 290.736388
+Weighting points: tjw00m 347.300342
+Weighting points: tt100 341.588504
+Weighting points: vvw00e 313.971431
+The tested faces 17 is: dg00
+The output of the recognized class: dg00
+Projecting 19/60
+Weighting points: ad499 427.245655
+Weighting points: arr00 399.930525
+Weighting points: bdr00 369.346305
+Weighting points: cmt00m 317.543816
+Weighting points: crn99 425.480967
+Weighting points: dg00 426.425707
+Weighting points: dg100e 402.592469
+Weighting points: drj00 408.555512
+Weighting points: dsl00m 325.392331
+Weighting points: dwr00 411.682423
+Weighting points: gatj98 263.785373
+Weighting points: hsn00e 374.217324
+Weighting points: jac100e 301.453701
+Weighting points: jcs100 388.703355
+Weighting points: jl400 415.574117
+Weighting points: jr200 332.106302
+Weighting points: jwa00 416.592631
+Weighting points: lm02 335.804531
+Weighting points: mdm100 401.426561
+Weighting points: om00e 391.653717
+Weighting points: pba99 275.771339
+Weighting points: pjc99 396.834778
+Weighting points: pm00 318.792945
+Weighting points: rb200m 392.413904
+Weighting points: sft99 303.802254
+Weighting points: svk00 378.612306
+Weighting points: tjh99 363.681457
+Weighting points: tjw00m 409.688051
+Weighting points: tt100 402.047371
+Weighting points: vvw00e 354.851847
+The tested faces 18 is: gatj98
+The output of the recognized class: gatj98
+Projecting 20/60
+Weighting points: ad499 262.054884
+Weighting points: ap400 312.531948
+Weighting points: arr00 355.585692
+Weighting points: chy00 341.017635
+Weighting points: cjf00 349.121312
+Weighting points: crn99 292.754588
+Weighting points: dg00 397.965242
+Weighting points: dg100e 386.704610
+Weighting points: dm100 353.118036
+Weighting points: drj00 353.279149
+Weighting points: dwr00 275.358894
+Weighting points: era02 385.856431
+Weighting points: gp200e 329.769458
+Weighting points: hsn00e 373.156501
+Weighting points: jasa98 292.056401
+Weighting points: jcs100 340.269441
+Weighting points: jdl99 313.312839
+Weighting points: jl400 351.927348
+Weighting points: jr200 354.863440
+Weighting points: ks200 382.974165
+Weighting points: mha00 120.521439
+Weighting points: mzm00 381.625786
+Weighting points: paj00 310.715629
+Weighting points: pmn00e 377.491905
+Weighting points: rb200m 315.772294
+Weighting points: sc300m 326.357994
+Weighting points: svk00 389.577097
+Weighting points: tel99 322.562306
+Weighting points: tjw00m 299.748415
+Weighting points: yjs00e 373.525885
+The tested faces 19 is: mha00
+The output of the recognized class: mha00
+Projecting 21/60
+Weighting points: arr00 364.433041
+Weighting points: bdr00 425.667184
+Weighting points: crn99 439.332998
+Weighting points: dg100e 425.293903
+Weighting points: drj00 408.186804
+Weighting points: gp200e 362.733602
+Weighting points: jasa98 417.323846
+Weighting points: jb300e 429.872938
+Weighting points: jcl100m 409.354997
+Weighting points: jcs100 428.171483
+Weighting points: jdl99 404.043380
+Weighting points: jnh00 431.549980
+Weighting points: jr200 431.457589
+Weighting points: jwa00 389.256289
+Weighting points: lm02 406.019162
+Weighting points: mdm100 409.609248
+Weighting points: mzm00 302.220045
+Weighting points: om00e 428.233958
+Weighting points: pba99 443.428639
+Weighting points: pjc99 382.384828
+Weighting points: pjw00 375.434682
+Weighting points: rb200m 417.245546
+Weighting points: sc300m 441.456378
+Weighting points: sft99 428.864415
+Weighting points: tjh99 390.608424
+Weighting points: tjw00m 389.382856
+Weighting points: wyt98 328.794459
+Weighting points: xw00 170.113084
+Weighting points: yjs00e 377.758968
+The tested faces 20 is: xw00
+The output of the recognized class: xw00
+Projecting 22/60
+Weighting points: ad499 309.150025
+Weighting points: arr00 285.784650
+Weighting points: bdr00 281.077369
+Weighting points: crn99 235.886353
+Weighting points: dg00 312.568560
+Weighting points: dg100e 273.277412
+Weighting points: dm100 307.699113
+Weighting points: drj00 196.010489
+Weighting points: dwr00 322.413739
+Weighting points: gp200e 246.481643
+Weighting points: hsn00e 285.534757
+Weighting points: jac100e 290.955398
+Weighting points: jasa98 210.689464
+Weighting points: jb300e 299.015297
+Weighting points: jcs100 278.269446
+Weighting points: jdl99 282.766287
+Weighting points: jl400 302.222217
+Weighting points: jr200 283.081224
+Weighting points: jwa00 269.791145
+Weighting points: mdm100 291.707065
+Weighting points: mha00 293.980436
+Weighting points: mzm00 276.438119
+Weighting points: paj00 271.972409
+Weighting points: pjc99 259.679783
+Weighting points: pjw00 260.887804
+Weighting points: rb200m 236.320560
+Weighting points: sc300m 271.376263
+Weighting points: sft99 321.575010
+Weighting points: svk00 317.864315
+Weighting points: tjh99 299.364005
+Weighting points: tjw00m 218.529981
+Weighting points: yjs00e 302.812552
+The tested faces 21 is: jasa98
+The output of the recognized class: drj00
+Projecting 23/60
+Weighting points: bdr00 290.164519
+Weighting points: cmt00m 323.270206
+Weighting points: crn99 388.855718
+Weighting points: dg00 394.576639
+Weighting points: dg100e 366.047015
+Weighting points: drj00 375.610428
+Weighting points: dsl00m 334.716463
+Weighting points: gatj98 362.314821
+Weighting points: hsn00e 343.165051
+Weighting points: jac100e 304.709063
+Weighting points: jb300e 361.542436
+Weighting points: jr200 306.033703
+Weighting points: jwa00 334.579631
+Weighting points: lm02 285.097993
+Weighting points: mdm100 378.215443
+Weighting points: mf200 402.325842
+Weighting points: om00e 339.723897
+Weighting points: paj00 403.253346
+Weighting points: pba99 220.458254
+Weighting points: pjc99 366.492628
+Weighting points: pjw00 343.190025
+Weighting points: pm00 308.661410
+Weighting points: rb200m 405.450154
+Weighting points: sft99 358.754427
+Weighting points: svk00 333.074216
+Weighting points: tjh99 392.499261
+Weighting points: tjw00m 367.151274
+Weighting points: tt100 179.582601
+Weighting points: vvw00e 328.600591
+The tested faces 22 is: tt100
+The output of the recognized class: tt100
+Projecting 24/60
+Weighting points: ad499 337.722463
+Weighting points: arr00 288.595350
+Weighting points: bdr00 331.537276
+Weighting points: cjf00 320.724038
+Weighting points: cmt00m 353.817004
+Weighting points: crn99 328.868917
+Weighting points: dg100e 239.958423
+Weighting points: drj00 330.850150
+Weighting points: dsl00m 330.644614
+Weighting points: dwr00 298.479788
+Weighting points: gatj98 330.452342
+Weighting points: gp200e 315.555156
+Weighting points: hsn00e 325.546841
+Weighting points: jac100e 295.864953
+Weighting points: jasa98 341.258491
+Weighting points: jcs100 330.573781
+Weighting points: jdl99 326.043541
+Weighting points: jl400 356.426210
+Weighting points: jnh00 298.553990
+Weighting points: jr200 264.320506
+Weighting points: jwa00 310.878772
+Weighting points: lm02 326.325051
+Weighting points: mf200 334.024631
+Weighting points: om00e 357.618088
+Weighting points: pba99 346.244357
+Weighting points: pjc99 294.500804
+Weighting points: pjw00 356.790317
+Weighting points: pm00 352.165817
+Weighting points: rb200m 290.668076
+Weighting points: sft99 305.328029
+Weighting points: svk00 345.718616
+Weighting points: tjh99 290.949472
+Weighting points: tjw00m 300.140709
+Weighting points: tt100 353.047468
+Weighting points: vvw00e 321.381234
+The tested faces 23 is: dg100e
+The output of the recognized class: dg100e
+Projecting 25/60
+Weighting points: arr00 319.486293
+Weighting points: bdr00 278.707576
+Weighting points: crn99 297.458509
+Weighting points: dg100e 309.689774
+Weighting points: drj00 255.889932
+Weighting points: gp200e 286.003239
+Weighting points: hsn00e 333.256920
+Weighting points: jasa98 297.773867
+Weighting points: jb300e 285.793335
+Weighting points: jcl100m 307.547143
+Weighting points: jcs100 314.552140
+Weighting points: jdl99 268.482074
+Weighting points: jnh00 327.851598
+Weighting points: jr200 312.986737
+Weighting points: jwa00 264.714766
+Weighting points: mdm100 297.603289
+Weighting points: mh500 279.606306
+Weighting points: mp400 332.355241
+Weighting points: mzm00 202.765075
+Weighting points: paj00 322.247552
+Weighting points: pjc99 242.509929
+Weighting points: pjw00 244.139145
+Weighting points: pmn00e 322.068183
+Weighting points: rb200m 291.486233
+Weighting points: sc300m 283.506535
+Weighting points: tjh99 314.086310
+Weighting points: tjw00m 275.163338
+Weighting points: wyt98 307.425528
+Weighting points: xw00 261.609999
+Weighting points: yjs00e 264.185841
+The tested faces 24 is: mzm00
+The output of the recognized class: mzm00
+Projecting 26/60
+Weighting points: ap400 287.749947
+Weighting points: bdr00 307.745844
+Weighting points: cjf00 250.429915
+Weighting points: cmt00m 314.574884
+Weighting points: crn99 251.329258
+Weighting points: dg00 252.206974
+Weighting points: dg100e 299.715178
+Weighting points: dm100 183.206810
+Weighting points: drj00 288.713928
+Weighting points: era02 315.173512
+Weighting points: hsn00e 257.023419
+Weighting points: jasa98 279.215674
+Weighting points: jb300e 290.884385
+Weighting points: jcl100m 324.762985
+Weighting points: jcs100 325.066920
+Weighting points: jdl99 250.219649
+Weighting points: jhb02 299.154028
+Weighting points: jl400 250.522905
+Weighting points: jnh00 227.388383
+Weighting points: jr200 323.956909
+Weighting points: jwa00 282.872164
+Weighting points: kl100 280.311211
+Weighting points: ks200 102.065261
+Weighting points: mf200 264.257502
+Weighting points: mh500 323.856190
+Weighting points: mha00 316.272693
+Weighting points: mp400 286.677401
+Weighting points: paj00 278.031169
+Weighting points: pjc99 308.134757
+Weighting points: pmn00e 297.535672
+Weighting points: rb200m 284.534105
+Weighting points: sc300m 298.038403
+Weighting points: tel99 266.999622
+Weighting points: yjs00e 294.223990
+The tested faces 25 is: ks200
+The output of the recognized class: ks200
+Projecting 27/60
+Weighting points: ad499 304.307005
+Weighting points: arr00 336.030094
+Weighting points: bdr00 377.791371
+Weighting points: crn99 360.836228
+Weighting points: dg00 372.672097
+Weighting points: dg100e 399.074438
+Weighting points: dm100 390.953381
+Weighting points: drj00 357.977715
+Weighting points: dsl00m 387.762676
+Weighting points: dwr00 324.329494
+Weighting points: gatj98 383.757088
+Weighting points: gp200e 260.330085
+Weighting points: hsn00e 363.497959
+Weighting points: jac100e 369.086536
+Weighting points: jasa98 325.316862
+Weighting points: jcs100 379.144874
+Weighting points: jdl99 377.873878
+Weighting points: jl400 338.003440
+Weighting points: jr200 359.041931
+Weighting points: jwa00 354.109716
+Weighting points: lm02 399.547210
+Weighting points: mdm100 349.057254
+Weighting points: mf200 385.893498
+Weighting points: mha00 390.633622
+Weighting points: mzm00 365.932719
+Weighting points: pba99 365.579390
+Weighting points: pjc99 361.396376
+Weighting points: pm00 377.012248
+Weighting points: rb200m 319.141188
+Weighting points: sc300m 379.587332
+Weighting points: sft99 340.783283
+Weighting points: tel99 384.646259
+Weighting points: tjh99 351.967646
+Weighting points: tjw00m 347.885877
+Weighting points: xw00 395.013201
+Weighting points: yjs00e 366.251095
+The tested faces 26 is: gp200e
+The output of the recognized class: gp200e
+Projecting 28/60
+Weighting points: bdr00 182.717150
+Weighting points: cmt00m 264.602956
+Weighting points: crn99 227.069863
+Weighting points: dg00 217.671986
+Weighting points: dg100e 263.248881
+Weighting points: dm100 251.975921
+Weighting points: drj00 234.500226
+Weighting points: dsl00m 262.909988
+Weighting points: hsn00e 204.159608
+Weighting points: jac100e 273.780672
+Weighting points: jasa98 297.752015
+Weighting points: jb300e 281.913244
+Weighting points: jdl99 311.031080
+Weighting points: jl400 269.525911
+Weighting points: jnh00 288.970233
+Weighting points: jr200 264.722289
+Weighting points: jwa00 247.613830
+Weighting points: ks200 285.565791
+Weighting points: mdm100 262.990021
+Weighting points: mf200 265.026298
+Weighting points: mh500 306.264042
+Weighting points: paj00 293.393326
+Weighting points: pba99 299.050510
+Weighting points: pjc99 285.202269
+Weighting points: pjw00 310.373546
+Weighting points: pm00 303.217636
+Weighting points: rb200m 248.371131
+Weighting points: svk00 302.275781
+Weighting points: tjh99 285.417634
+Weighting points: tjw00m 268.746880
+The tested faces 27 is: mf200
+The output of the recognized class: bdr00
+Projecting 29/60
+Weighting points: bdr00 237.733466
+Weighting points: cmt00m 274.353997
+Weighting points: crn99 212.677457
+Weighting points: dg00 222.417090
+Weighting points: dg100e 295.662471
+Weighting points: dm100 145.980203
+Weighting points: drj00 251.660441
+Weighting points: dsl00m 289.232378
+Weighting points: hsn00e 210.454036
+Weighting points: jac100e 298.252959
+Weighting points: jasa98 269.229733
+Weighting points: jb300e 297.080038
+Weighting points: jcl100m 290.724857
+Weighting points: jcs100 293.418632
+Weighting points: jdl99 296.746408
+Weighting points: jl400 240.301449
+Weighting points: jnh00 288.628506
+Weighting points: jr200 276.602022
+Weighting points: jwa00 270.628374
+Weighting points: ks200 252.667753
+Weighting points: mdm100 243.131094
+Weighting points: mf200 282.425905
+Weighting points: mh500 296.543139
+Weighting points: paj00 275.909625
+Weighting points: pjc99 289.614814
+Weighting points: pm00 305.064877
+Weighting points: pmn00e 306.108209
+Weighting points: rb200m 255.221806
+Weighting points: sc300m 300.541755
+Weighting points: tel99 300.667720
+Weighting points: tjh99 272.332137
+Weighting points: tjw00m 259.619985
+Weighting points: yjs00e 288.248325
+The tested faces 28 is: dm100
+The output of the recognized class: dm100
+Projecting 30/60
+Weighting points: arr00 316.637475
+Weighting points: bdr00 159.153436
+Weighting points: cmt00m 291.964339
+Weighting points: crn99 260.686319
+Weighting points: dg00 273.746390
+Weighting points: dg100e 280.973072
+Weighting points: drj00 233.908875
+Weighting points: dsl00m 256.442653
+Weighting points: hsn00e 271.967953
+Weighting points: ic100e 313.632562
+Weighting points: jac100e 268.246135
+Weighting points: jb300e 292.996102
+Weighting points: jcs100 315.245451
+Weighting points: jnh00 289.898390
+Weighting points: jr200 278.669633
+Weighting points: jwa00 235.316403
+Weighting points: lm02 297.492185
+Weighting points: mdm100 291.835402
+Weighting points: mf200 319.530736
+Weighting points: mh500 318.557461
+Weighting points: om00e 303.966222
+Weighting points: pba99 259.971607
+Weighting points: pjc99 258.261888
+Weighting points: pjw00 289.158084
+Weighting points: pm00 294.636013
+Weighting points: rb200m 281.794239
+Weighting points: sft99 304.629776
+Weighting points: tjh99 261.035963
+Weighting points: tjw00m 291.625315
+Weighting points: tt100 299.155986
+The tested faces 29 is: bdr00
+The output of the recognized class: bdr00
+Projecting 31/60
+Weighting points: ap400 324.130866
+Weighting points: cjf00 317.736142
+Weighting points: cmt00m 477.498309
+Weighting points: crn99 433.147123
+Weighting points: dg00 372.065432
+Weighting points: dm100 347.395362
+Weighting points: drj00 476.796736
+Weighting points: era02 228.948676
+Weighting points: hsn00e 443.279172
+Weighting points: jasa98 441.300786
+Weighting points: jb300e 447.685147
+Weighting points: jdd00e 443.670868
+Weighting points: jdl99 461.444325
+Weighting points: jhb02 364.184544
+Weighting points: jl400 399.590345
+Weighting points: jnh00 419.934149
+Weighting points: jr200 473.404539
+Weighting points: jwa00 359.820163
+Weighting points: kl100 463.504525
+Weighting points: ks200 348.378361
+Weighting points: mf200 395.964927
+Weighting points: mh500 437.031446
+Weighting points: mha00 481.671852
+Weighting points: mp400 427.323470
+Weighting points: paj00 387.811100
+Weighting points: pjc99 357.061239
+Weighting points: pmn00e 379.536658
+Weighting points: sc300m 443.822242
+Weighting points: tcl00 474.576745
+Weighting points: tel99 275.830156
+Weighting points: yjs00e 419.240582
+The tested faces 30 is: era02
+The output of the recognized class: era02
+Projecting 32/60
+Weighting points: bdr00 278.177195
+Weighting points: cmt00m 195.170492
+Weighting points: crn99 348.566198
+Weighting points: dg00 320.969720
+Weighting points: dg100e 349.297558
+Weighting points: drj00 366.183466
+Weighting points: dsl00m 275.188665
+Weighting points: gatj98 295.525072
+Weighting points: hsn00e 310.382788
+Weighting points: jac100e 309.795364
+Weighting points: jb300e 353.960287
+Weighting points: jcs100 373.131857
+Weighting points: jl400 360.367221
+Weighting points: jr200 248.266405
+Weighting points: jwa00 357.985734
+Weighting points: lm02 322.569402
+Weighting points: mdm100 331.537529
+Weighting points: mf200 363.522709
+Weighting points: om00e 364.337726
+Weighting points: paj00 372.930316
+Weighting points: pba99 246.769939
+Weighting points: pjc99 332.939140
+Weighting points: pm00 252.349557
+Weighting points: rb200m 373.075330
+Weighting points: sft99 315.132804
+Weighting points: svk00 334.503088
+Weighting points: tjh99 335.551825
+Weighting points: tjw00m 356.237966
+Weighting points: tt100 342.494428
+Weighting points: vvw00e 313.214867
+The tested faces 31 is: cmt00m
+The output of the recognized class: cmt00m
+Projecting 33/60
+Weighting points: ad499 318.636125
+Weighting points: bdr00 288.879110
+Weighting points: cjf00 300.352731
+Weighting points: cmt00m 307.246944
+Weighting points: crn99 285.470230
+Weighting points: dg00 311.429553
+Weighting points: dg100e 328.621526
+Weighting points: dm100 309.202954
+Weighting points: drj00 316.081858
+Weighting points: dsl00m 300.235801
+Weighting points: hsn00e 279.675793
+Weighting points: jasa98 325.222121
+Weighting points: jb300e 285.475096
+Weighting points: jdl99 298.725536
+Weighting points: jnh00 307.820725
+Weighting points: jr200 301.139353
+Weighting points: jwa00 315.385895
+Weighting points: ks200 310.636164
+Weighting points: mf200 295.779619
+Weighting points: mh500 295.120757
+Weighting points: mp400 304.108582
+Weighting points: mzm00 317.280146
+Weighting points: paj00 274.052354
+Weighting points: pjc99 272.684182
+Weighting points: pjw00 293.421778
+Weighting points: pmn00e 145.089375
+Weighting points: sc300m 313.699311
+Weighting points: svk00 323.847137
+Weighting points: tjw00m 285.349320
+Weighting points: yjs00e 323.384780
+The tested faces 32 is: pmn00e
+The output of the recognized class: pmn00e
+Projecting 34/60
+Weighting points: bdr00 264.912430
+Weighting points: cjf00 224.972877
+Weighting points: cmt00m 314.383251
+Weighting points: crn99 303.511315
+Weighting points: dg00 269.629327
+Weighting points: dg100e 299.497228
+Weighting points: dm100 295.480919
+Weighting points: drj00 303.191442
+Weighting points: dsl00m 284.325077
+Weighting points: hsn00e 296.653938
+Weighting points: ic100e 270.189662
+Weighting points: jb300e 252.979867
+Weighting points: jcl100m 308.375972
+Weighting points: jcs100 315.584746
+Weighting points: jdd00e 326.484621
+Weighting points: jdl99 308.191266
+Weighting points: jl400 271.467486
+Weighting points: jnh00 123.207192
+Weighting points: jr200 291.410457
+Weighting points: jwa00 226.446741
+Weighting points: kl100 273.979390
+Weighting points: ks200 265.844108
+Weighting points: mdm100 299.975744
+Weighting points: mf200 227.052588
+Weighting points: mh500 275.916128
+Weighting points: mp400 275.539617
+Weighting points: paj00 319.568617
+Weighting points: pjc99 226.639545
+Weighting points: pjw00 309.499371
+Weighting points: pmn00e 314.195226
+Weighting points: tel99 323.866474
+Weighting points: tjh99 278.715686
+Weighting points: yjs00e 317.898177
+The tested faces 33 is: jnh00
+The output of the recognized class: jnh00
+Projecting 35/60
+Weighting points: ad499 250.775175
+Weighting points: ap400 307.226180
+Weighting points: arr00 313.954342
+Weighting points: bdr00 280.982974
+Weighting points: cjf00 284.489992
+Weighting points: crn99 287.577351
+Weighting points: dg00 303.721475
+Weighting points: dg100e 320.453817
+Weighting points: dm100 255.622234
+Weighting points: drj00 327.388722
+Weighting points: dsl00m 258.082732
+Weighting points: dwr00 293.058689
+Weighting points: gatj98 285.277314
+Weighting points: gp200e 303.121501
+Weighting points: hsn00e 287.708605
+Weighting points: jac100e 333.238810
+Weighting points: jasa98 289.543302
+Weighting points: jcl100m 324.646528
+Weighting points: jcs100 243.926078
+Weighting points: jdd00e 337.309697
+Weighting points: jdl99 283.282259
+Weighting points: jl400 232.177939
+Weighting points: jnh00 289.939139
+Weighting points: jr200 285.408890
+Weighting points: jwa00 331.906540
+Weighting points: lm02 327.726915
+Weighting points: mdm100 265.083754
+Weighting points: mf200 257.924331
+Weighting points: mha00 329.181188
+Weighting points: mzm00 331.522272
+Weighting points: pba99 288.252870
+Weighting points: pjc99 337.829284
+Weighting points: pjw00 283.528816
+Weighting points: pmn00e 321.819836
+Weighting points: rb200m 213.111009
+Weighting points: sc300m 308.069742
+Weighting points: svk00 272.064361
+Weighting points: tel99 322.946430
+Weighting points: tjh99 277.646818
+Weighting points: tjw00m 277.006878
+Weighting points: yjs00e 302.278718
+The tested faces 34 is: rb200m
+The output of the recognized class: rb200m
+Projecting 36/60
+Weighting points: bdr00 315.980971
+Weighting points: cmt00m 314.848884
+Weighting points: dg00 406.713790
+Weighting points: dg100e 399.092222
+Weighting points: drj00 409.051005
+Weighting points: dsl00m 294.859233
+Weighting points: gatj98 370.483315
+Weighting points: hsn00e 386.404724
+Weighting points: ic100e 375.403552
+Weighting points: jac100e 331.172273
+Weighting points: jb300e 366.005881
+Weighting points: jcl100m 410.191667
+Weighting points: jnh00 399.468272
+Weighting points: jr200 309.917771
+Weighting points: jwa00 378.990776
+Weighting points: lm02 257.980005
+Weighting points: mdm100 363.813793
+Weighting points: mf200 404.066812
+Weighting points: mh500 403.351899
+Weighting points: om00e 282.476719
+Weighting points: pba99 230.419430
+Weighting points: pjc99 354.648465
+Weighting points: pjw00 359.508020
+Weighting points: pm00 243.727010
+Weighting points: sft99 372.238168
+Weighting points: svk00 359.833567
+Weighting points: tjh99 355.402367
+Weighting points: tt100 339.788008
+Weighting points: vvw00e 187.080121
+The tested faces 35 is: vvw00e
+The output of the recognized class: vvw00e
+Projecting 37/60
+Weighting points: arr00 313.215745
+Weighting points: bdr00 329.997942
+Weighting points: cmt00m 344.134890
+Weighting points: crn99 383.268456
+Weighting points: dg00 385.225358
+Weighting points: dg100e 374.231716
+Weighting points: drj00 343.278776
+Weighting points: dsl00m 354.958450
+Weighting points: dwr00 351.546934
+Weighting points: gatj98 321.173959
+Weighting points: gp200e 386.610486
+Weighting points: hsn00e 390.596964
+Weighting points: jac100e 352.429065
+Weighting points: jb300e 393.632865
+Weighting points: jcs100 285.113154
+Weighting points: jl400 369.226733
+Weighting points: jr200 333.779827
+Weighting points: jwa00 346.256996
+Weighting points: lm02 267.941998
+Weighting points: mdm100 296.959111
+Weighting points: om00e 353.112267
+Weighting points: pba99 254.916780
+Weighting points: pjc99 347.346485
+Weighting points: pjw00 385.638151
+Weighting points: pm00 350.768779
+Weighting points: rb200m 373.020712
+Weighting points: sft99 133.064087
+Weighting points: tjh99 288.420468
+Weighting points: tjw00m 376.746275
+Weighting points: tt100 384.832885
+Weighting points: vvw00e 344.369315
+The tested faces 36 is: sft99
+The output of the recognized class: sft99
+Projecting 38/60
+Weighting points: bdr00 239.632676
+Weighting points: cmt00m 216.041529
+Weighting points: crn99 321.444701
+Weighting points: dg00 287.426209
+Weighting points: dg100e 327.813597
+Weighting points: drj00 328.921714
+Weighting points: dsl00m 235.151174
+Weighting points: gatj98 293.396140
+Weighting points: hsn00e 281.566034
+Weighting points: jac100e 273.014741
+Weighting points: jb300e 331.837426
+Weighting points: jcs100 331.759573
+Weighting points: jl400 301.451918
+Weighting points: jr200 179.072068
+Weighting points: jwa00 313.472086
+Weighting points: lm02 275.097063
+Weighting points: mdm100 258.008018
+Weighting points: mf200 323.112812
+Weighting points: om00e 315.988118
+Weighting points: paj00 334.821373
+Weighting points: pba99 189.557711
+Weighting points: pjc99 302.531661
+Weighting points: pjw00 336.100075
+Weighting points: pm00 180.785056
+Weighting points: sft99 304.685689
+Weighting points: svk00 296.051624
+Weighting points: tjh99 282.603122
+Weighting points: tjw00m 318.336964
+Weighting points: tt100 312.666513
+Weighting points: vvw00e 259.239795
+The tested faces 37 is: jr200
+The output of the recognized class: jr200
+Projecting 39/60
+Weighting points: bdr00 342.918306
+Weighting points: cjf00 340.910306
+Weighting points: crn99 277.411971
+Weighting points: dg00 292.965420
+Weighting points: dg100e 361.656982
+Weighting points: dm100 266.664297
+Weighting points: drj00 290.740118
+Weighting points: era02 349.584773
+Weighting points: hsn00e 333.826226
+Weighting points: jasa98 272.101400
+Weighting points: jb300e 342.460420
+Weighting points: jcl100m 357.102108
+Weighting points: jcs100 336.984428
+Weighting points: jdl99 309.275980
+Weighting points: jhb02 323.680581
+Weighting points: jl400 274.750534
+Weighting points: jnh00 337.761118
+Weighting points: jr200 358.824614
+Weighting points: jwa00 306.971083
+Weighting points: ks200 288.520385
+Weighting points: mdm100 291.379863
+Weighting points: mf200 317.250980
+Weighting points: mh500 333.288655
+Weighting points: mha00 359.158106
+Weighting points: paj00 294.772473
+Weighting points: pjc99 340.386428
+Weighting points: rb200m 330.759632
+Weighting points: sc300m 311.303039
+Weighting points: tel99 255.103026
+Weighting points: tjh99 350.058056
+Weighting points: tjw00m 347.561576
+Weighting points: yjs00e 299.084982
+The tested faces 38 is: tel99
+The output of the recognized class: tel99
+Projecting 40/60
+Weighting points: arr00 234.173190
+Weighting points: bdr00 277.419782
+Weighting points: cmt00m 306.591251
+Weighting points: crn99 275.110387
+Weighting points: dg00 314.592651
+Weighting points: dg100e 302.795855
+Weighting points: drj00 256.965235
+Weighting points: dsl00m 316.162765
+Weighting points: dwr00 263.632033
+Weighting points: gatj98 317.940866
+Weighting points: gp200e 289.652860
+Weighting points: hsn00e 312.069338
+Weighting points: jac100e 324.663403
+Weighting points: jasa98 323.375255
+Weighting points: jcs100 161.960439
+Weighting points: jdl99 311.403143
+Weighting points: jl400 304.265745
+Weighting points: jr200 283.862407
+Weighting points: jwa00 277.899714
+Weighting points: lm02 316.893337
+Weighting points: mdm100 234.203576
+Weighting points: mha00 328.541859
+Weighting points: paj00 322.313516
+Weighting points: pba99 293.683217
+Weighting points: pjc99 305.996012
+Weighting points: pm00 326.937718
+Weighting points: rb200m 259.804202
+Weighting points: sft99 185.936029
+Weighting points: tjh99 243.000483
+Weighting points: tjw00m 295.815699
+The tested faces 39 is: jcs100
+The output of the recognized class: jcs100
+Projecting 41/60
+Weighting points: ad499 316.198865
+Weighting points: ap400 293.995095
+Weighting points: chy00 351.605871
+Weighting points: cjf00 345.346167
+Weighting points: cmt00m 361.525814
+Weighting points: crn99 271.618771
+Weighting points: dg00 354.778883
+Weighting points: dg100e 374.501543
+Weighting points: dm100 248.874345
+Weighting points: drj00 342.324935
+Weighting points: era02 308.976713
+Weighting points: hsn00e 316.849206
+Weighting points: jasa98 278.696779
+Weighting points: jb300e 363.608468
+Weighting points: jdd00e 369.034886
+Weighting points: jdl99 317.110857
+Weighting points: jhb02 374.596808
+Weighting points: jl400 314.095008
+Weighting points: jnh00 375.523617
+Weighting points: jr200 376.924771
+Weighting points: ks200 274.072798
+Weighting points: mf200 369.778412
+Weighting points: mha00 287.453014
+Weighting points: paj00 280.189984
+Weighting points: pjc99 368.423964
+Weighting points: pmn00e 336.738242
+Weighting points: rb200m 322.919429
+Weighting points: sc300m 317.361969
+Weighting points: tel99 342.699370
+Weighting points: tjw00m 357.692683
+Weighting points: yjs00e 337.562202
+The tested faces 40 is: ap400
+The output of the recognized class: dm100
+Projecting 42/60
+Weighting points: ad499 345.516800
+Weighting points: arr00 323.455423
+Weighting points: chy00 211.109045
+Weighting points: cjf00 360.595718
+Weighting points: crn99 303.236902
+Weighting points: dg100e 311.642164
+Weighting points: dm100 332.367091
+Weighting points: drj00 323.250001
+Weighting points: gp200e 306.149499
+Weighting points: jasa98 252.409605
+Weighting points: jb300e 324.703084
+Weighting points: jcl100m 340.432524
+Weighting points: jcs100 335.252160
+Weighting points: jdl99 292.757006
+Weighting points: kl100 348.290146
+Weighting points: ks200 344.679974
+Weighting points: mha00 302.000754
+Weighting points: mp400 328.019608
+Weighting points: mzm00 283.245086
+Weighting points: paj00 326.505714
+Weighting points: pjw00 354.898008
+Weighting points: rb200m 278.057245
+Weighting points: sc300m 328.442432
+Weighting points: tcl00 310.950448
+Weighting points: tel99 352.650049
+Weighting points: tjw00m 303.405827
+Weighting points: wyt98 324.478546
+Weighting points: xw00 313.526976
+Weighting points: yjs00e 307.626171
+The tested faces 41 is: chy00
+The output of the recognized class: chy00
+Projecting 43/60
+Weighting points: ad499 346.183102
+Weighting points: arr00 345.474911
+Weighting points: bdr00 330.255611
+Weighting points: crn99 306.182324
+Weighting points: dg00 343.602408
+Weighting points: dg100e 353.872809
+Weighting points: dm100 350.640122
+Weighting points: drj00 258.864884
+Weighting points: dwr00 350.118159
+Weighting points: gp200e 297.180964
+Weighting points: hsn00e 342.773335
+Weighting points: jasa98 268.592019
+Weighting points: jb300e 343.200246
+Weighting points: jcs100 351.598166
+Weighting points: jdl99 280.021645
+Weighting points: jhb02 301.354607
+Weighting points: jl400 337.659476
+Weighting points: jnh00 338.709269
+Weighting points: jr200 339.416465
+Weighting points: jwa00 307.028996
+Weighting points: mdm100 314.753208
+Weighting points: mh500 348.741494
+Weighting points: mha00 329.952806
+Weighting points: mp400 359.710981
+Weighting points: mzm00 286.918112
+Weighting points: paj00 307.698898
+Weighting points: pjc99 295.900204
+Weighting points: pjw00 325.856102
+Weighting points: pmn00e 317.540110
+Weighting points: rb200m 284.168816
+Weighting points: sc300m 173.862812
+Weighting points: tel99 321.447079
+Weighting points: tjh99 332.652781
+Weighting points: tjw00m 286.174958
+Weighting points: xw00 349.070853
+Weighting points: yjs00e 295.840171
+The tested faces 42 is: sc300m
+The output of the recognized class: sc300m
+Projecting 44/60
+Weighting points: bdr00 358.608466
+Weighting points: cjf00 391.111070
+Weighting points: crn99 374.158055
+Weighting points: dg00 375.471513
+Weighting points: dm100 344.953614
+Weighting points: drj00 339.071232
+Weighting points: hsn00e 395.905727
+Weighting points: jasa98 336.284342
+Weighting points: jb300e 356.856268
+Weighting points: jcl100m 396.917369
+Weighting points: jdd00e 393.088719
+Weighting points: jdl99 381.981760
+Weighting points: jhb02 253.256875
+Weighting points: jl400 390.225774
+Weighting points: jnh00 375.502356
+Weighting points: jwa00 327.799929
+Weighting points: ks200 387.844603
+Weighting points: mdm100 352.309508
+Weighting points: mf200 355.351452
+Weighting points: mh500 283.785503
+Weighting points: mp400 376.963701
+Weighting points: mzm00 364.180155
+Weighting points: paj00 362.946002
+Weighting points: pjc99 359.486154
+Weighting points: pjw00 333.401507
+Weighting points: pmn00e 358.586250
+Weighting points: sc300m 297.000540
+Weighting points: tcl00 371.959820
+Weighting points: tel99 369.147188
+Weighting points: tjh99 390.959346
+Weighting points: tjw00m 371.935308
+Weighting points: yjs00e 354.292771
+The tested faces 43 is: jhb02
+The output of the recognized class: jhb02
+Projecting 45/60
+Weighting points: bdr00 434.692199
+Weighting points: cjf00 285.402308
+Weighting points: cmt00m 463.786521
+Weighting points: crn99 472.499131
+Weighting points: dg00 369.065261
+Weighting points: dm100 429.514182
+Weighting points: drj00 456.540946
+Weighting points: dsl00m 460.454204
+Weighting points: era02 416.748745
+Weighting points: hsn00e 458.850840
+Weighting points: ic100e 331.527511
+Weighting points: jb300e 418.019386
+Weighting points: jcl100m 433.949415
+Weighting points: jdd00e 455.982016
+Weighting points: jhb02 383.044074
+Weighting points: jl400 402.307547
+Weighting points: jnh00 340.727309
+Weighting points: jr200 433.211985
+Weighting points: jwa00 251.819062
+Weighting points: kl100 430.796953
+Weighting points: ks200 409.998581
+Weighting points: mdm100 398.679645
+Weighting points: mf200 344.827090
+Weighting points: mh500 355.886211
+Weighting points: mp400 442.399473
+Weighting points: paj00 456.707443
+Weighting points: pjc99 289.734156
+Weighting points: pjw00 452.008111
+Weighting points: pmn00e 428.517384
+Weighting points: tel99 324.224731
+Weighting points: tjh99 419.979187
+Weighting points: yjs00e 386.789030
+The tested faces 44 is: jwa00
+The output of the recognized class: jwa00
+Projecting 46/60
+Weighting points: ad499 280.842804
+Weighting points: arr00 310.991882
+Weighting points: bdr00 314.328957
+Weighting points: cjf00 337.696163
+Weighting points: crn99 270.669524
+Weighting points: dg00 327.139704
+Weighting points: dg100e 314.753274
+Weighting points: drj00 305.830554
+Weighting points: dsl00m 314.891366
+Weighting points: dwr00 279.581307
+Weighting points: gatj98 346.359604
+Weighting points: gp200e 280.039993
+Weighting points: hsn00e 302.518920
+Weighting points: jac100e 291.943715
+Weighting points: jasa98 294.163923
+Weighting points: jcs100 323.242874
+Weighting points: jdl99 328.867163
+Weighting points: jl400 324.344478
+Weighting points: jr200 260.079635
+Weighting points: jwa00 337.337237
+Weighting points: mdm100 341.311517
+Weighting points: mf200 333.144721
+Weighting points: mha00 294.913009
+Weighting points: mzm00 331.868394
+Weighting points: paj00 336.128526
+Weighting points: pba99 335.811107
+Weighting points: pjc99 279.550016
+Weighting points: pm00 325.738495
+Weighting points: rb200m 271.835342
+Weighting points: sc300m 328.567765
+Weighting points: sft99 326.452618
+Weighting points: svk00 341.435033
+Weighting points: tjh99 342.846116
+Weighting points: tjw00m 162.374424
+Weighting points: tt100 321.758264
+Weighting points: yjs00e 342.064577
+The tested faces 45 is: tjw00m
+The output of the recognized class: tjw00m
+Projecting 47/60
+Weighting points: bdr00 375.171954
+Weighting points: cjf00 355.953190
+Weighting points: dg00 399.561331
+Weighting points: dm100 400.635760
+Weighting points: drj00 408.767607
+Weighting points: dsl00m 423.033063
+Weighting points: hsn00e 429.554359
+Weighting points: ic100e 382.924634
+Weighting points: jasa98 428.995211
+Weighting points: jb300e 333.700850
+Weighting points: jcl100m 386.757696
+Weighting points: jdd00e 419.520701
+Weighting points: jdl99 416.722598
+Weighting points: jhb02 363.391238
+Weighting points: jnh00 354.632742
+Weighting points: jwa00 342.212800
+Weighting points: kl100 416.536697
+Weighting points: ks200 415.177397
+Weighting points: mdm100 420.511912
+Weighting points: mf200 354.156058
+Weighting points: mh500 198.224092
+Weighting points: mp400 368.110344
+Weighting points: mzm00 406.185181
+Weighting points: paj00 408.817335
+Weighting points: pjc99 340.330969
+Weighting points: pjw00 303.299084
+Weighting points: pmn00e 345.153949
+Weighting points: sc300m 388.503658
+Weighting points: tcl00 411.442669
+Weighting points: tel99 419.476547
+Weighting points: wyt98 387.820001
+Weighting points: yjs00e 340.715161
+The tested faces 46 is: mh500
+The output of the recognized class: mh500
+Projecting 48/60
+Weighting points: ad499 324.505551
+Weighting points: bdr00 327.930776
+Weighting points: cmt00m 340.700012
+Weighting points: crn99 313.650142
+Weighting points: dg00 307.880181
+Weighting points: dm100 319.111783
+Weighting points: drj00 332.772282
+Weighting points: dsl00m 356.361614
+Weighting points: gp200e 365.518623
+Weighting points: hsn00e 316.419816
+Weighting points: jac100e 311.613539
+Weighting points: jasa98 332.310253
+Weighting points: jcs100 369.742987
+Weighting points: jdl99 368.490904
+Weighting points: jl400 296.738144
+Weighting points: jr200 300.117304
+Weighting points: jwa00 350.576929
+Weighting points: mdm100 315.834554
+Weighting points: mha00 328.203571
+Weighting points: mzm00 360.582853
+Weighting points: paj00 287.850352
+Weighting points: pba99 342.846933
+Weighting points: pjc99 335.318867
+Weighting points: pjw00 360.521712
+Weighting points: pm00 339.208555
+Weighting points: pmn00e 347.350796
+Weighting points: rb200m 327.391770
+Weighting points: sc300m 360.799491
+Weighting points: svk00 281.796349
+Weighting points: tjh99 356.447383
+Weighting points: tjw00m 292.862617
+The tested faces 47 is: ad499
+The output of the recognized class: svk00
+Projecting 49/60
+Weighting points: bdr00 327.420887
+Weighting points: chy00 329.714354
+Weighting points: cjf00 319.823407
+Weighting points: crn99 327.537158
+Weighting points: dg100e 330.406643
+Weighting points: dm100 329.819077
+Weighting points: drj00 304.101513
+Weighting points: jasa98 308.762664
+Weighting points: jb300e 275.962261
+Weighting points: jcl100m 310.455559
+Weighting points: jcs100 325.515401
+Weighting points: jdl99 253.132100
+Weighting points: jl400 341.850702
+Weighting points: jnh00 329.323803
+Weighting points: jr200 337.637870
+Weighting points: jwa00 344.667690
+Weighting points: ks200 331.730004
+Weighting points: mdm100 297.647569
+Weighting points: mf200 324.376971
+Weighting points: mh500 313.015092
+Weighting points: mp400 304.788092
+Weighting points: mzm00 265.383144
+Weighting points: paj00 309.658791
+Weighting points: pjc99 302.481575
+Weighting points: pjw00 294.303128
+Weighting points: pmn00e 301.878865
+Weighting points: rb200m 344.098444
+Weighting points: sc300m 326.592948
+Weighting points: tcl00 338.673529
+Weighting points: tel99 335.809673
+Weighting points: tjh99 328.980982
+Weighting points: wyt98 317.212964
+Weighting points: xw00 344.465478
+Weighting points: yjs00e 161.471500
+The tested faces 48 is: yjs00e
+The output of the recognized class: yjs00e
+Projecting 50/60
+Weighting points: bdr00 281.910576
+Weighting points: cmt00m 350.404792
+Weighting points: crn99 415.509022
+Weighting points: dg00 369.958060
+Weighting points: dg100e 400.724509
+Weighting points: drj00 388.039423
+Weighting points: dsl00m 310.750151
+Weighting points: hsn00e 374.479498
+Weighting points: ic100e 303.222402
+Weighting points: jac100e 395.111545
+Weighting points: jb300e 342.852533
+Weighting points: jcl100m 408.022073
+Weighting points: jnh00 371.987272
+Weighting points: jr200 353.766980
+Weighting points: jwa00 351.043693
+Weighting points: lm02 371.754269
+Weighting points: mdm100 360.880532
+Weighting points: mf200 350.645153
+Weighting points: mh500 297.294689
+Weighting points: om00e 329.331583
+Weighting points: pba99 328.501750
+Weighting points: pjc99 317.711580
+Weighting points: pjw00 332.536449
+Weighting points: pm00 332.630774
+Weighting points: pmn00e 394.732379
+Weighting points: tjh99 378.366732
+Weighting points: tt100 371.318677
+Weighting points: vvw00e 316.157145
+Weighting points: yjs00e 394.554904
+The tested faces 49 is: ic100e
+The output of the recognized class: bdr00
+Projecting 51/60
+Weighting points: bdr00 292.471108
+Weighting points: cmt00m 267.401640
+Weighting points: crn99 355.067950
+Weighting points: dg00 332.747374
+Weighting points: dg100e 304.999964
+Weighting points: drj00 345.006598
+Weighting points: dsl00m 270.591386
+Weighting points: gatj98 306.527293
+Weighting points: hsn00e 304.451039
+Weighting points: ic100e 338.160305
+Weighting points: jac100e 280.684722
+Weighting points: jb300e 337.821874
+Weighting points: jcs100 359.207445
+Weighting points: jdd00e 361.906596
+Weighting points: jl400 287.065797
+Weighting points: jnh00 317.738451
+Weighting points: jr200 258.522809
+Weighting points: jwa00 365.264560
+Weighting points: lm02 335.940018
+Weighting points: mdm100 355.018304
+Weighting points: mf200 307.266304
+Weighting points: om00e 352.830089
+Weighting points: paj00 311.243999
+Weighting points: pba99 310.263046
+Weighting points: pjc99 290.123216
+Weighting points: pjw00 309.985317
+Weighting points: pm00 247.994721
+Weighting points: rb200m 342.484273
+Weighting points: svk00 193.861298
+Weighting points: tjh99 327.119328
+Weighting points: tjw00m 357.871180
+Weighting points: tt100 348.543300
+Weighting points: vvw00e 304.376986
+The tested faces 50 is: svk00
+The output of the recognized class: svk00
+Projecting 52/60
+Weighting points: ad499 279.194037
+Weighting points: arr00 310.738229
+Weighting points: bdr00 288.732647
+Weighting points: cmt00m 247.090267
+Weighting points: crn99 252.185584
+Weighting points: dg00 278.495699
+Weighting points: dg100e 297.553379
+Weighting points: dm100 305.684608
+Weighting points: drj00 270.408719
+Weighting points: dsl00m 290.823702
+Weighting points: dwr00 303.408395
+Weighting points: gatj98 261.034892
+Weighting points: hsn00e 252.066895
+Weighting points: jac100e 272.808641
+Weighting points: jasa98 307.289264
+Weighting points: jcs100 251.901866
+Weighting points: jdl99 317.365420
+Weighting points: jl400 173.114160
+Weighting points: jr200 225.433285
+Weighting points: mdm100 283.212817
+Weighting points: mha00 270.410769
+Weighting points: paj00 243.630756
+Weighting points: pba99 303.613940
+Weighting points: pjc99 315.588586
+Weighting points: pm00 272.804444
+Weighting points: rb200m 254.729641
+Weighting points: sft99 296.050503
+Weighting points: svk00 271.198657
+Weighting points: tjh99 284.284300
+Weighting points: tjw00m 285.767505
+The tested faces 51 is: jl400
+The output of the recognized class: jl400
+Projecting 53/60
+Weighting points: ad499 384.826424
+Weighting points: arr00 387.475673
+Weighting points: bdr00 370.665806
+Weighting points: cmt00m 402.992311
+Weighting points: dg00 359.790709
+Weighting points: dg100e 398.270732
+Weighting points: dsl00m 363.929463
+Weighting points: dwr00 369.652714
+Weighting points: gatj98 361.695425
+Weighting points: gp200e 387.007103
+Weighting points: hsn00e 358.892781
+Weighting points: jac100e 292.412631
+Weighting points: jl400 394.210862
+Weighting points: jnh00 395.675880
+Weighting points: jr200 377.332887
+Weighting points: jwa00 328.425673
+Weighting points: lm02 327.533489
+Weighting points: mf200 401.731524
+Weighting points: om00e 292.434991
+Weighting points: pba99 290.346078
+Weighting points: pjc99 338.201648
+Weighting points: pm00 338.709123
+Weighting points: rb200m 375.133003
+Weighting points: sft99 326.812191
+Weighting points: svk00 378.088526
+Weighting points: tjh99 372.402181
+Weighting points: tjw00m 363.725597
+Weighting points: tt100 375.340562
+Weighting points: vvw00e 341.309125
+The tested faces 52 is: jac100e
+The output of the recognized class: pba99
+Projecting 54/60
+Weighting points: arr00 291.846728
+Weighting points: bdr00 256.159903
+Weighting points: cmt00m 301.857455
+Weighting points: crn99 327.389524
+Weighting points: dg00 322.294580
+Weighting points: dg100e 326.853536
+Weighting points: drj00 282.626380
+Weighting points: dsl00m 308.246808
+Weighting points: gatj98 346.221057
+Weighting points: hsn00e 331.052521
+Weighting points: jac100e 314.451878
+Weighting points: jb300e 309.902680
+Weighting points: jcl100m 326.250803
+Weighting points: jcs100 275.333335
+Weighting points: jl400 289.100934
+Weighting points: jnh00 312.791847
+Weighting points: jr200 291.229624
+Weighting points: jwa00 314.793606
+Weighting points: lm02 294.099717
+Weighting points: mdm100 208.916184
+Weighting points: mf200 317.214188
+Weighting points: om00e 317.028120
+Weighting points: pba99 292.799584
+Weighting points: pjc99 336.924666
+Weighting points: pjw00 304.379750
+Weighting points: pm00 311.907311
+Weighting points: rb200m 317.227342
+Weighting points: sft99 274.078347
+Weighting points: tjh99 181.232262
+Weighting points: vvw00e 321.013080
+The tested faces 53 is: tjh99
+The output of the recognized class: tjh99
+Projecting 55/60
+Weighting points: ad499 385.342972
+Weighting points: bdr00 369.763737
+Weighting points: cjf00 347.077288
+Weighting points: cmt00m 390.731491
+Weighting points: crn99 371.415295
+Weighting points: dg100e 349.987173
+Weighting points: drj00 345.503923
+Weighting points: dsl00m 391.572779
+Weighting points: hsn00e 358.550818
+Weighting points: jac100e 385.165534
+Weighting points: jasa98 360.408817
+Weighting points: jb300e 313.713846
+Weighting points: jdd00e 190.409162
+Weighting points: jdl99 358.941974
+Weighting points: jl400 366.600099
+Weighting points: jnh00 332.525714
+Weighting points: jr200 377.572600
+Weighting points: jwa00 385.529608
+Weighting points: kl100 313.158167
+Weighting points: ks200 358.921493
+Weighting points: mf200 317.458183
+Weighting points: mh500 381.042719
+Weighting points: mp400 364.979813
+Weighting points: paj00 291.787610
+Weighting points: pjc99 337.818663
+Weighting points: pjw00 311.405006
+Weighting points: pmn00e 340.772951
+Weighting points: rb200m 370.775269
+Weighting points: sc300m 384.452121
+Weighting points: svk00 343.347690
+Weighting points: tjw00m 385.009376
+Weighting points: yjs00e 405.011613
+The tested faces 54 is: jdd00e
+The output of the recognized class: jdd00e
+Projecting 56/60
+Weighting points: arr00 339.410119
+Weighting points: bdr00 278.255363
+Weighting points: cmt00m 340.325926
+Weighting points: crn99 256.654467
+Weighting points: dg00 313.194929
+Weighting points: dg100e 329.608309
+Weighting points: dm100 323.973931
+Weighting points: drj00 191.587523
+Weighting points: dsl00m 345.287924
+Weighting points: hsn00e 299.755557
+Weighting points: jac100e 332.397096
+Weighting points: jasa98 282.787302
+Weighting points: jb300e 309.149262
+Weighting points: jcs100 325.529855
+Weighting points: jdl99 327.897078
+Weighting points: jl400 283.432028
+Weighting points: jnh00 331.033842
+Weighting points: jr200 327.095589
+Weighting points: jwa00 313.262632
+Weighting points: mdm100 297.563010
+Weighting points: mf200 309.114015
+Weighting points: mh500 332.423668
+Weighting points: paj00 307.695193
+Weighting points: pjc99 341.337688
+Weighting points: pjw00 287.155383
+Weighting points: pmn00e 347.331315
+Weighting points: rb200m 294.979730
+Weighting points: sc300m 317.367361
+Weighting points: tjh99 307.002068
+Weighting points: tjw00m 318.351914
+Weighting points: yjs00e 330.239129
+The tested faces 55 is: drj00
+The output of the recognized class: drj00
+Projecting 57/60
+Weighting points: arr00 425.205301
+Weighting points: bdr00 341.532625
+Weighting points: cmt00m 402.364767
+Weighting points: dg00 408.786361
+Weighting points: dg100e 429.867343
+Weighting points: drj00 413.094889
+Weighting points: dsl00m 387.895605
+Weighting points: gatj98 429.185404
+Weighting points: hsn00e 435.959492
+Weighting points: ic100e 415.118669
+Weighting points: jac100e 337.061323
+Weighting points: jb300e 413.829918
+Weighting points: jcs100 438.769412
+Weighting points: jr200 374.898352
+Weighting points: jwa00 320.256419
+Weighting points: lm02 188.847421
+Weighting points: mdm100 381.767392
+Weighting points: mh500 447.312751
+Weighting points: om00e 313.562192
+Weighting points: pba99 268.425977
+Weighting points: pjc99 320.278644
+Weighting points: pjw00 366.249393
+Weighting points: pm00 356.537736
+Weighting points: rb200m 446.849199
+Weighting points: sft99 296.280613
+Weighting points: svk00 402.507174
+Weighting points: tjh99 369.144726
+Weighting points: tjw00m 416.687086
+Weighting points: tt100 341.303316
+Weighting points: vvw00e 294.822503
+The tested faces 56 is: lm02
+The output of the recognized class: lm02
+Projecting 58/60
+Weighting points: bdr00 216.869151
+Weighting points: cmt00m 330.138526
+Weighting points: crn99 341.209634
+Weighting points: dg00 347.444602
+Weighting points: dg100e 314.380536
+Weighting points: drj00 282.682134
+Weighting points: dsl00m 303.336047
+Weighting points: hsn00e 324.430474
+Weighting points: jac100e 309.283505
+Weighting points: jb300e 234.463975
+Weighting points: jcl100m 346.135191
+Weighting points: jnh00 324.941572
+Weighting points: jr200 327.783914
+Weighting points: jwa00 302.165395
+Weighting points: lm02 303.015784
+Weighting points: mdm100 301.287709
+Weighting points: mf200 309.187263
+Weighting points: mh500 275.118445
+Weighting points: mp400 347.749718
+Weighting points: mzm00 320.801199
+Weighting points: om00e 304.815153
+Weighting points: pba99 270.494014
+Weighting points: pjc99 294.285353
+Weighting points: pjw00 215.983858
+Weighting points: pm00 353.802944
+Weighting points: svk00 312.630190
+Weighting points: tjh99 314.578351
+Weighting points: tjw00m 322.443248
+Weighting points: tt100 316.851257
+Weighting points: vvw00e 346.428017
+Weighting points: wyt98 335.396510
+The tested faces 57 is: jb300e
+The output of the recognized class: pjw00
+Projecting 59/60
+Weighting points: bdr00 337.018993
+Weighting points: cmt00m 281.069309
+Weighting points: crn99 407.179738
+Weighting points: dg00 334.365176
+Weighting points: dg100e 410.946404
+Weighting points: dsl00m 321.606766
+Weighting points: gatj98 354.555485
+Weighting points: hsn00e 364.344460
+Weighting points: ic100e 378.909611
+Weighting points: jac100e 373.959123
+Weighting points: jl400 364.335495
+Weighting points: jnh00 404.725871
+Weighting points: jr200 287.285363
+Weighting points: jwa00 391.659328
+Weighting points: lm02 391.711414
+Weighting points: mdm100 351.976342
+Weighting points: mf200 378.661753
+Weighting points: mh500 397.060085
+Weighting points: om00e 389.914246
+Weighting points: paj00 397.182987
+Weighting points: pba99 310.836021
+Weighting points: pjc99 331.094949
+Weighting points: pjw00 410.043156
+Weighting points: pm00 269.319968
+Weighting points: sft99 410.344860
+Weighting points: svk00 334.822519
+Weighting points: tjh99 373.860032
+Weighting points: tjw00m 412.935789
+Weighting points: tt100 379.328292
+Weighting points: vvw00e 292.591008
+The tested faces 58 is: pm00
+The output of the recognized class: pm00
+Projecting 60/60
+Weighting points: arr00 314.787719
+Weighting points: bdr00 239.837790
+Weighting points: cmt00m 318.890598
+Weighting points: crn99 280.990496
+Weighting points: dg00 294.091439
+Weighting points: dg100e 332.832128
+Weighting points: dm100 337.080051
+Weighting points: drj00 268.706596
+Weighting points: dsl00m 311.837935
+Weighting points: hsn00e 301.602238
+Weighting points: jac100e 321.428087
+Weighting points: jb300e 328.761847
+Weighting points: jcl100m 328.899674
+Weighting points: jcs100 316.560092
+Weighting points: jl400 327.435799
+Weighting points: jr200 286.626325
+Weighting points: jwa00 279.856004
+Weighting points: lm02 320.872039
+Weighting points: mdm100 150.936142
+Weighting points: mf200 327.486917
+Weighting points: mh500 309.408939
+Weighting points: mzm00 316.055299
+Weighting points: pba99 266.680645
+Weighting points: pjc99 307.627644
+Weighting points: pjw00 311.119877
+Weighting points: pm00 324.910918
+Weighting points: rb200m 323.272693
+Weighting points: sft99 311.958000
+Weighting points: tjh99 255.580901
+Weighting points: tjw00m 294.348770
+Weighting points: tt100 326.202001
+Weighting points: yjs00e 327.808603
+The tested faces 59 is: mdm100
+The output of the recognized class: mdm100
+done
+RESULT : correct=50 : wrong=10
+Accuracy[%]=83.3333

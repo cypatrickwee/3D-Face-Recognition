@@ -1,0 +1,1159 @@
+Usage: dataset.txt target.png k
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/crn99_43.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/mdm100_160.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/ks200_448.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/tjw00m_540.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/dm100_581.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/gatj98_753.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/tjh99_30.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/paj00_304.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/dg100e_82.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/jdd00e_740.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/pba99_883.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/xw00_779.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/pm00_870.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/hsn00e_909.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/cjf00_317.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/tt100_857.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/lm02_566.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/jb300e_226.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/jcl100m_513.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/pjc99_343.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/mf200_435.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/dg00_186.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/jl400_607.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/wyt98_330.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/era02_383.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/ap400_252.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/mzm00_805.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/sc300m_474.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/jac100e_56.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/dsl00m_108.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/jnh00_95.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/arr00_818.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/dwr00_278.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/om00e_121.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/ad499_370.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/gp200e_134.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/mha00_239.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/jdl99_896.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/jwa00_922.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/jhb02_396.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/svk00_291.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/ic100e_17.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/yjs00e_727.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/chy00_635.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/vvw00e_69.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/jasa98_766.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/rb200m_648.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/mp400_461.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/bdr00_688.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/jr200_212.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/cmt00m_622.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/tcl00_661.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/kl100_487.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/pmn00e_265.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/tel99_701.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/jcs100_199.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/mh500_422.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/sft99_675.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/pjw00_173.vtk
+Loading: /home/svp-cz/Desktop/fypSubmit/datasets/ICL dataset/identity/testingfaces/sTest/test_2/neutral1/drj00_594.vtk
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/dwr00_287.vtk
+This is the complete number of points of no.0 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/hsn00e_918.vtk
+This is the complete number of points of no.1 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/dsl00m_117.vtk
+This is the complete number of points of no.2 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/cjf00_326.vtk
+This is the complete number of points of no.3 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/pjc99_352.vtk
+This is the complete number of points of no.4 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/om00e_130.vtk
+This is the complete number of points of no.5 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/jcl100m_523.vtk
+This is the complete number of points of no.6 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/mp400_470.vtk
+This is the complete number of points of no.7 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/pba99_892.vtk
+This is the complete number of points of no.8 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/crn99_52.vtk
+This is the complete number of points of no.9 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/kl100_496.vtk
+This is the complete number of points of no.10 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/tcl00_670.vtk
+This is the complete number of points of no.11 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/wyt98_339.vtk
+This is the complete number of points of no.12 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/jdl99_905.vtk
+This is the complete number of points of no.13 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/arr00_827.vtk
+This is the complete number of points of no.14 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/paj00_313.vtk
+This is the complete number of points of no.15 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/pjw00_182.vtk
+This is the complete number of points of no.16 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/dg00_195.vtk
+This is the complete number of points of no.17 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/gatj98_762.vtk
+This is the complete number of points of no.18 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/mha00_248.vtk
+This is the complete number of points of no.19 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/xw00_788.vtk
+This is the complete number of points of no.20 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/jasa98_775.vtk
+This is the complete number of points of no.21 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/tt100_866.vtk
+This is the complete number of points of no.22 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/dg100e_91.vtk
+This is the complete number of points of no.23 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/mzm00_814.vtk
+This is the complete number of points of no.24 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/ks200_457.vtk
+This is the complete number of points of no.25 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/gp200e_143.vtk
+This is the complete number of points of no.26 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/mf200_444.vtk
+This is the complete number of points of no.27 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/dm100_590.vtk
+This is the complete number of points of no.28 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/bdr00_697.vtk
+This is the complete number of points of no.29 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/era02_392.vtk
+This is the complete number of points of no.30 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/cmt00m_631.vtk
+This is the complete number of points of no.31 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/pmn00e_274.vtk
+This is the complete number of points of no.32 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/jnh00_104.vtk
+This is the complete number of points of no.33 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/rb200m_657.vtk
+This is the complete number of points of no.34 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/vvw00e_78.vtk
+This is the complete number of points of no.35 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/sft99_684.vtk
+This is the complete number of points of no.36 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/jr200_221.vtk
+This is the complete number of points of no.37 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/tel99_710.vtk
+This is the complete number of points of no.38 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/jcs100_208.vtk
+This is the complete number of points of no.39 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/ap400_261.vtk
+This is the complete number of points of no.40 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/chy00_644.vtk
+This is the complete number of points of no.41 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/sc300m_483.vtk
+This is the complete number of points of no.42 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/jhb02_405.vtk
+This is the complete number of points of no.43 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/jwa00_931.vtk
+This is the complete number of points of no.44 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/tjw00m_549.vtk
+This is the complete number of points of no.45 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/mh500_431.vtk
+This is the complete number of points of no.46 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/ad499_379.vtk
+This is the complete number of points of no.47 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/yjs00e_736.vtk
+This is the complete number of points of no.48 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/ic100e_26.vtk
+This is the complete number of points of no.49 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/svk00_300.vtk
+This is the complete number of points of no.50 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/jl400_616.vtk
+This is the complete number of points of no.51 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/jac100e_65.vtk
+This is the complete number of points of no.52 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/tjh99_39.vtk
+This is the complete number of points of no.53 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/jdd00e_749.vtk
+This is the complete number of points of no.54 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/drj00_603.vtk
+This is the complete number of points of no.55 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/lm02_577.vtk
+This is the complete number of points of no.56 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/jb300e_235.vtk
+This is the complete number of points of no.57 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/pm00_879.vtk
+This is the complete number of points of no.58 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/frown/mdm100_169.vtk
+This is the complete number of points of no.59 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/tjw00m_548.vtk
+This is the complete number of points of no.60 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/hsn00e_917.vtk
+This is the complete number of points of no.61 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/arr00_826.vtk
+This is the complete number of points of no.62 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/pmn00e_273.vtk
+This is the complete number of points of no.63 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/jb300e_234.vtk
+This is the complete number of points of no.64 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/ap400_260.vtk
+This is the complete number of points of no.65 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/kl100_495.vtk
+This is the complete number of points of no.66 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/mdm100_168.vtk
+This is the complete number of points of no.67 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/dg100e_90.vtk
+This is the complete number of points of no.68 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/jhb02_404.vtk
+This is the complete number of points of no.69 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/mzm00_813.vtk
+This is the complete number of points of no.70 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/ks200_456.vtk
+This is the complete number of points of no.71 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/mh500_430.vtk
+This is the complete number of points of no.72 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/pjc99_351.vtk
+This is the complete number of points of no.73 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/jl400_615.vtk
+This is the complete number of points of no.74 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/tjh99_38.vtk
+This is the complete number of points of no.75 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/lm02_576.vtk
+This is the complete number of points of no.76 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/wyt98_338.vtk
+This is the complete number of points of no.77 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/sft99_683.vtk
+This is the complete number of points of no.78 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/mf200_443.vtk
+This is the complete number of points of no.79 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/cjf00_325.vtk
+This is the complete number of points of no.80 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/dsl00m_116.vtk
+This is the complete number of points of no.81 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/dm100_589.vtk
+This is the complete number of points of no.82 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/tcl00_669.vtk
+This is the complete number of points of no.83 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/cmt00m_630.vtk
+This is the complete number of points of no.84 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/jcs100_207.vtk
+This is the complete number of points of no.85 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/gatj98_761.vtk
+This is the complete number of points of no.86 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/jcl100m_521.vtk
+This is the complete number of points of no.87 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/ad499_378.vtk
+This is the complete number of points of no.88 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/pjw00_181.vtk
+This is the complete number of points of no.89 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/dwr00_286.vtk
+This is the complete number of points of no.90 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/bdr00_696.vtk
+This is the complete number of points of no.91 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/pm00_878.vtk
+This is the complete number of points of no.92 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/om00e_129.vtk
+This is the complete number of points of no.93 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/dg00_194.vtk
+This is the complete number of points of no.94 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/xw00_787.vtk
+This is the complete number of points of no.95 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/mha00_247.vtk
+This is the complete number of points of no.96 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/tt100_865.vtk
+This is the complete number of points of no.97 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/jasa98_774.vtk
+This is the complete number of points of no.98 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/svk00_299.vtk
+This is the complete number of points of no.99 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/jwa00_930.vtk
+This is the complete number of points of no.100 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/jdl99_904.vtk
+This is the complete number of points of no.101 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/yjs00e_735.vtk
+This is the complete number of points of no.102 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/sc300m_482.vtk
+This is the complete number of points of no.103 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/crn99_51.vtk
+This is the complete number of points of no.104 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/rb200m_656.vtk
+This is the complete number of points of no.105 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/era02_391.vtk
+This is the complete number of points of no.106 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/paj00_312.vtk
+This is the complete number of points of no.107 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/jr200_220.vtk
+This is the complete number of points of no.108 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/vvw00e_77.vtk
+This is the complete number of points of no.109 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/tel99_709.vtk
+This is the complete number of points of no.110 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/drj00_602.vtk
+This is the complete number of points of no.111 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/chy00_643.vtk
+This is the complete number of points of no.112 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/jdd00e_748.vtk
+This is the complete number of points of no.113 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/jac100e_64.vtk
+This is the complete number of points of no.114 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/ic100e_25.vtk
+This is the complete number of points of no.115 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/jnh00_103.vtk
+This is the complete number of points of no.116 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/pba99_891.vtk
+This is the complete number of points of no.117 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/gp200e_142.vtk
+This is the complete number of points of no.118 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/smile/mp400_469.vtk
+This is the complete number of points of no.119 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/jhb02_401.vtk
+This is the complete number of points of no.120 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/ap400_257.vtk
+This is the complete number of points of no.121 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/mf200_440.vtk
+This is the complete number of points of no.122 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/lm02_573.vtk
+This is the complete number of points of no.123 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/crn99_48.vtk
+This is the complete number of points of no.124 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/cmt00m_627.vtk
+This is the complete number of points of no.125 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/tel99_706.vtk
+This is the complete number of points of no.126 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/pmn00e_270.vtk
+This is the complete number of points of no.127 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/kl100_492.vtk
+This is the complete number of points of no.128 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/mp400_466.vtk
+This is the complete number of points of no.129 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/era02_388.vtk
+This is the complete number of points of no.130 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/jnh00_100.vtk
+This is the complete number of points of no.131 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/mh500_427.vtk
+This is the complete number of points of no.132 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/pjw00_178.vtk
+This is the complete number of points of no.133 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/jl400_612.vtk
+This is the complete number of points of no.134 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/pjc99_348.vtk
+This is the complete number of points of no.135 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/ad499_375.vtk
+This is the complete number of points of no.136 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/tt100_862.vtk
+This is the complete number of points of no.137 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/arr00_823.vtk
+This is the complete number of points of no.138 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/cjf00_322.vtk
+This is the complete number of points of no.139 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/mdm100_165.vtk
+This is the complete number of points of no.140 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/pm00_875.vtk
+This is the complete number of points of no.141 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/om00e_126.vtk
+This is the complete number of points of no.142 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/sc300m_479.vtk
+This is the complete number of points of no.143 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/vvw00e_74.vtk
+This is the complete number of points of no.144 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/jr200_217.vtk
+This is the complete number of points of no.145 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/jcl100m_518.vtk
+This is the complete number of points of no.146 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/dg100e_87.vtk
+This is the complete number of points of no.147 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/ks200_453.vtk
+This is the complete number of points of no.148 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/dm100_586.vtk
+This is the complete number of points of no.149 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/xw00_784.vtk
+This is the complete number of points of no.150 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/bdr00_693.vtk
+This is the complete number of points of no.151 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/yjs00e_732.vtk
+This is the complete number of points of no.152 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/drj00_599.vtk
+This is the complete number of points of no.153 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/mzm00_810.vtk
+This is the complete number of points of no.154 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/svk00_296.vtk
+This is the complete number of points of no.155 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/tcl00_666.vtk
+This is the complete number of points of no.156 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/jcs100_204.vtk
+This is the complete number of points of no.157 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/dwr00_283.vtk
+This is the complete number of points of no.158 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/pba99_888.vtk
+This is the complete number of points of no.159 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/ic100e_22.vtk
+This is the complete number of points of no.160 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/dsl00m_113.vtk
+This is the complete number of points of no.161 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/dg00_191.vtk
+This is the complete number of points of no.162 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/jwa00_927.vtk
+This is the complete number of points of no.163 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/jb300e_231.vtk
+This is the complete number of points of no.164 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/wyt98_335.vtk
+This is the complete number of points of no.165 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/jac100e_61.vtk
+This is the complete number of points of no.166 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/sft99_680.vtk
+This is the complete number of points of no.167 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/gatj98_758.vtk
+This is the complete number of points of no.168 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/gp200e_139.vtk
+This is the complete number of points of no.169 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/paj00_309.vtk
+This is the complete number of points of no.170 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/tjh99_35.vtk
+This is the complete number of points of no.171 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/jdd00e_745.vtk
+This is the complete number of points of no.172 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/jasa98_771.vtk
+This is the complete number of points of no.173 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/chy00_640.vtk
+This is the complete number of points of no.174 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/mha00_244.vtk
+This is the complete number of points of no.175 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/tjw00m_545.vtk
+This is the complete number of points of no.176 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/rb200m_653.vtk
+This is the complete number of points of no.177 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/hsn00e_914.vtk
+This is the complete number of points of no.178 face.
+Loading /home/svp-cz/Desktop/Final Draft/Dataset3D/identity/trainingfaces2/neutral2/jdl99_901.vtk
+This is the complete number of points of no.179 face.
+This is the width
+3
+This is the height
+5090
+180
+Preparing samples 1/180
+Preparing samples 2/180
+Preparing samples 3/180
+Preparing samples 4/180
+Preparing samples 5/180
+Preparing samples 6/180
+Preparing samples 7/180
+Preparing samples 8/180
+Preparing samples 9/180
+Preparing samples 10/180
+Preparing samples 11/180
+Preparing samples 12/180
+Preparing samples 13/180
+Preparing samples 14/180
+Preparing samples 15/180
+Preparing samples 16/180
+Preparing samples 17/180
+Preparing samples 18/180
+Preparing samples 19/180
+Preparing samples 20/180
+Preparing samples 21/180
+Preparing samples 22/180
+Preparing samples 23/180
+Preparing samples 24/180
+Preparing samples 25/180
+Preparing samples 26/180
+Preparing samples 27/180
+Preparing samples 28/180
+Preparing samples 29/180
+Preparing samples 30/180
+Preparing samples 31/180
+Preparing samples 32/180
+Preparing samples 33/180
+Preparing samples 34/180
+Preparing samples 35/180
+Preparing samples 36/180
+Preparing samples 37/180
+Preparing samples 38/180
+Preparing samples 39/180
+Preparing samples 40/180
+Preparing samples 41/180
+Preparing samples 42/180
+Preparing samples 43/180
+Preparing samples 44/180
+Preparing samples 45/180
+Preparing samples 46/180
+Preparing samples 47/180
+Preparing samples 48/180
+Preparing samples 49/180
+Preparing samples 50/180
+Preparing samples 51/180
+Preparing samples 52/180
+Preparing samples 53/180
+Preparing samples 54/180
+Preparing samples 55/180
+Preparing samples 56/180
+Preparing samples 57/180
+Preparing samples 58/180
+Preparing samples 59/180
+Preparing samples 60/180
+Preparing samples 61/180
+Preparing samples 62/180
+Preparing samples 63/180
+Preparing samples 64/180
+Preparing samples 65/180
+Preparing samples 66/180
+Preparing samples 67/180
+Preparing samples 68/180
+Preparing samples 69/180
+Preparing samples 70/180
+Preparing samples 71/180
+Preparing samples 72/180
+Preparing samples 73/180
+Preparing samples 74/180
+Preparing samples 75/180
+Preparing samples 76/180
+Preparing samples 77/180
+Preparing samples 78/180
+Preparing samples 79/180
+Preparing samples 80/180
+Preparing samples 81/180
+Preparing samples 82/180
+Preparing samples 83/180
+Preparing samples 84/180
+Preparing samples 85/180
+Preparing samples 86/180
+Preparing samples 87/180
+Preparing samples 88/180
+Preparing samples 89/180
+Preparing samples 90/180
+Preparing samples 91/180
+Preparing samples 92/180
+Preparing samples 93/180
+Preparing samples 94/180
+Preparing samples 95/180
+Preparing samples 96/180
+Preparing samples 97/180
+Preparing samples 98/180
+Preparing samples 99/180
+Preparing samples 100/180
+Preparing samples 101/180
+Preparing samples 102/180
+Preparing samples 103/180
+Preparing samples 104/180
+Preparing samples 105/180
+Preparing samples 106/180
+Preparing samples 107/180
+Preparing samples 108/180
+Preparing samples 109/180
+Preparing samples 110/180
+Preparing samples 111/180
+Preparing samples 112/180
+Preparing samples 113/180
+Preparing samples 114/180
+Preparing samples 115/180
+Preparing samples 116/180
+Preparing samples 117/180
+Preparing samples 118/180
+Preparing samples 119/180
+Preparing samples 120/180
+Preparing samples 121/180
+Preparing samples 122/180
+Preparing samples 123/180
+Preparing samples 124/180
+Preparing samples 125/180
+Preparing samples 126/180
+Preparing samples 127/180
+Preparing samples 128/180
+Preparing samples 129/180
+Preparing samples 130/180
+Preparing samples 131/180
+Preparing samples 132/180
+Preparing samples 133/180
+Preparing samples 134/180
+Preparing samples 135/180
+Preparing samples 136/180
+Preparing samples 137/180
+Preparing samples 138/180
+Preparing samples 139/180
+Preparing samples 140/180
+Preparing samples 141/180
+Preparing samples 142/180
+Preparing samples 143/180
+Preparing samples 144/180
+Preparing samples 145/180
+Preparing samples 146/180
+Preparing samples 147/180
+Preparing samples 148/180
+Preparing samples 149/180
+Preparing samples 150/180
+Preparing samples 151/180
+Preparing samples 152/180
+Preparing samples 153/180
+Preparing samples 154/180
+Preparing samples 155/180
+Preparing samples 156/180
+Preparing samples 157/180
+Preparing samples 158/180
+Preparing samples 159/180
+Preparing samples 160/180
+Preparing samples 161/180
+Preparing samples 162/180
+Preparing samples 163/180
+Preparing samples 164/180
+Preparing samples 165/180
+Preparing samples 166/180
+Preparing samples 167/180
+Preparing samples 168/180
+Preparing samples 169/180
+Preparing samples 170/180
+Preparing samples 171/180
+Preparing samples 172/180
+Preparing samples 173/180
+Preparing samples 174/180
+Preparing samples 175/180
+Preparing samples 176/180
+Preparing samples 177/180
+Preparing samples 178/180
+Preparing samples 179/180
+Preparing samples 180/180
+TRAINING...
+Projecting 1/180
+Projecting 2/180
+Projecting 3/180
+Projecting 4/180
+Projecting 5/180
+Projecting 6/180
+Projecting 7/180
+Projecting 8/180
+Projecting 9/180
+Projecting 10/180
+Projecting 11/180
+Projecting 12/180
+Projecting 13/180
+Projecting 14/180
+Projecting 15/180
+Projecting 16/180
+Projecting 17/180
+Projecting 18/180
+Projecting 19/180
+Projecting 20/180
+Projecting 21/180
+Projecting 22/180
+Projecting 23/180
+Projecting 24/180
+Projecting 25/180
+Projecting 26/180
+Projecting 27/180
+Projecting 28/180
+Projecting 29/180
+Projecting 30/180
+Projecting 31/180
+Projecting 32/180
+Projecting 33/180
+Projecting 34/180
+Projecting 35/180
+Projecting 36/180
+Projecting 37/180
+Projecting 38/180
+Projecting 39/180
+Projecting 40/180
+Projecting 41/180
+Projecting 42/180
+Projecting 43/180
+Projecting 44/180
+Projecting 45/180
+Projecting 46/180
+Projecting 47/180
+Projecting 48/180
+Projecting 49/180
+Projecting 50/180
+Projecting 51/180
+Projecting 52/180
+Projecting 53/180
+Projecting 54/180
+Projecting 55/180
+Projecting 56/180
+Projecting 57/180
+Projecting 58/180
+Projecting 59/180
+Projecting 60/180
+Projecting 61/180
+Projecting 62/180
+Projecting 63/180
+Projecting 64/180
+Projecting 65/180
+Projecting 66/180
+Projecting 67/180
+Projecting 68/180
+Projecting 69/180
+Projecting 70/180
+Projecting 71/180
+Projecting 72/180
+Projecting 73/180
+Projecting 74/180
+Projecting 75/180
+Projecting 76/180
+Projecting 77/180
+Projecting 78/180
+Projecting 79/180
+Projecting 80/180
+Projecting 81/180
+Projecting 82/180
+Projecting 83/180
+Projecting 84/180
+Projecting 85/180
+Projecting 86/180
+Projecting 87/180
+Projecting 88/180
+Projecting 89/180
+Projecting 90/180
+Projecting 91/180
+Projecting 92/180
+Projecting 93/180
+Projecting 94/180
+Projecting 95/180
+Projecting 96/180
+Projecting 97/180
+Projecting 98/180
+Projecting 99/180
+Projecting 100/180
+Projecting 101/180
+Projecting 102/180
+Projecting 103/180
+Projecting 104/180
+Projecting 105/180
+Projecting 106/180
+Projecting 107/180
+Projecting 108/180
+Projecting 109/180
+Projecting 110/180
+Projecting 111/180
+Projecting 112/180
+Projecting 113/180
+Projecting 114/180
+Projecting 115/180
+Projecting 116/180
+Projecting 117/180
+Projecting 118/180
+Projecting 119/180
+Projecting 120/180
+Projecting 121/180
+Projecting 122/180
+Projecting 123/180
+Projecting 124/180
+Projecting 125/180
+Projecting 126/180
+Projecting 127/180
+Projecting 128/180
+Projecting 129/180
+Projecting 130/180
+Projecting 131/180
+Projecting 132/180
+Projecting 133/180
+Projecting 134/180
+Projecting 135/180
+Projecting 136/180
+Projecting 137/180
+Projecting 138/180
+Projecting 139/180
+Projecting 140/180
+Projecting 141/180
+Projecting 142/180
+Projecting 143/180
+Projecting 144/180
+Projecting 145/180
+Projecting 146/180
+Projecting 147/180
+Projecting 148/180
+Projecting 149/180
+Projecting 150/180
+Projecting 151/180
+Projecting 152/180
+Projecting 153/180
+Projecting 154/180
+Projecting 155/180
+Projecting 156/180
+Projecting 157/180
+Projecting 158/180
+Projecting 159/180
+Projecting 160/180
+Projecting 161/180
+Projecting 162/180
+Projecting 163/180
+Projecting 164/180
+Projecting 165/180
+Projecting 166/180
+Projecting 167/180
+Projecting 168/180
+Projecting 169/180
+Projecting 170/180
+Projecting 171/180
+Projecting 172/180
+Projecting 173/180
+Projecting 174/180
+Projecting 175/180
+Projecting 176/180
+Projecting 177/180
+Projecting 178/180
+Projecting 179/180
+Projecting 180/180
+This is the width of the first testing face: 3
+This is the height of the first testing face: 5090
+60
+until here no problem
+Preparing samples 1/60
+Preparing samples 2/60
+Preparing samples 3/60
+Preparing samples 4/60
+Preparing samples 5/60
+Preparing samples 6/60
+Preparing samples 7/60
+Preparing samples 8/60
+Preparing samples 9/60
+Preparing samples 10/60
+Preparing samples 11/60
+Preparing samples 12/60
+Preparing samples 13/60
+Preparing samples 14/60
+Preparing samples 15/60
+Preparing samples 16/60
+Preparing samples 17/60
+Preparing samples 18/60
+Preparing samples 19/60
+Preparing samples 20/60
+Preparing samples 21/60
+Preparing samples 22/60
+Preparing samples 23/60
+Preparing samples 24/60
+Preparing samples 25/60
+Preparing samples 26/60
+Preparing samples 27/60
+Preparing samples 28/60
+Preparing samples 29/60
+Preparing samples 30/60
+Preparing samples 31/60
+Preparing samples 32/60
+Preparing samples 33/60
+Preparing samples 34/60
+Preparing samples 35/60
+Preparing samples 36/60
+Preparing samples 37/60
+Preparing samples 38/60
+Preparing samples 39/60
+Preparing samples 40/60
+Preparing samples 41/60
+Preparing samples 42/60
+Preparing samples 43/60
+Preparing samples 44/60
+Preparing samples 45/60
+Preparing samples 46/60
+Preparing samples 47/60
+Preparing samples 48/60
+Preparing samples 49/60
+Preparing samples 50/60
+Preparing samples 51/60
+Preparing samples 52/60
+Preparing samples 53/60
+Preparing samples 54/60
+Preparing samples 55/60
+Preparing samples 56/60
+Preparing samples 57/60
+Preparing samples 58/60
+Preparing samples 59/60
+Preparing samples 60/60
+Projecting 1/60
+Voting points: crn99 1
+Voting points: drj00 1
+Voting points: hsn00e 1
+The tested faces 0 is: crn99
+The output of the recognized class: crn99
+Projecting 2/60
+Voting points: mdm100 2
+Voting points: tjh99 1
+The tested faces 1 is: mdm100
+The output of the recognized class: mdm100
+Projecting 3/60
+Voting points: dm100 1
+Voting points: ks200 2
+The tested faces 2 is: ks200
+The output of the recognized class: ks200
+Projecting 4/60
+Voting points: crn99 1
+Voting points: tjw00m 2
+The tested faces 3 is: tjw00m
+The output of the recognized class: tjw00m
+Projecting 5/60
+Voting points: dm100 2
+Voting points: ks200 1
+The tested faces 4 is: dm100
+The output of the recognized class: dm100
+Projecting 6/60
+Voting points: cmt00m 1
+Voting points: gatj98 2
+The tested faces 5 is: gatj98
+The output of the recognized class: gatj98
+Projecting 7/60
+Voting points: mdm100 1
+Voting points: tjh99 2
+The tested faces 6 is: tjh99
+The output of the recognized class: tjh99
+Projecting 8/60
+Voting points: crn99 1
+Voting points: jasa98 1
+Voting points: paj00 1
+The tested faces 7 is: paj00
+The output of the recognized class: crn99
+Projecting 9/60
+Voting points: dg100e 1
+Voting points: hsn00e 1
+Voting points: jb300e 1
+The tested faces 8 is: dg100e
+The output of the recognized class: dg100e
+Projecting 10/60
+Voting points: jdd00e 2
+Voting points: kl100 1
+The tested faces 9 is: jdd00e
+The output of the recognized class: jdd00e
+Projecting 11/60
+Voting points: jr200 1
+Voting points: pba99 2
+The tested faces 10 is: pba99
+The output of the recognized class: pba99
+Projecting 12/60
+Voting points: wyt98 1
+Voting points: xw00 2
+The tested faces 11 is: xw00
+The output of the recognized class: xw00
+Projecting 13/60
+Voting points: jr200 2
+Voting points: pm00 1
+The tested faces 12 is: pm00
+The output of the recognized class: jr200
+Projecting 14/60
+Voting points: crn99 1
+Voting points: hsn00e 2
+The tested faces 13 is: hsn00e
+The output of the recognized class: hsn00e
+Projecting 15/60
+Voting points: cjf00 2
+Voting points: pjc99 1
+The tested faces 14 is: cjf00
+The output of the recognized class: cjf00
+Projecting 16/60
+Voting points: tt100 3
+The tested faces 15 is: tt100
+The output of the recognized class: tt100
+Projecting 17/60
+Voting points: lm02 2
+Voting points: pba99 1
+The tested faces 16 is: lm02
+The output of the recognized class: lm02
+Projecting 18/60
+Voting points: bdr00 1
+Voting points: jb300e 1
+Voting points: pjw00 1
+The tested faces 17 is: jb300e
+The output of the recognized class: bdr00
+Projecting 19/60
+Voting points: jcl100m 3
+The tested faces 18 is: jcl100m
+The output of the recognized class: jcl100m
+Projecting 20/60
+Voting points: mf200 1
+Voting points: pjc99 2
+The tested faces 19 is: pjc99
+The output of the recognized class: pjc99
+Projecting 21/60
+Voting points: jb300e 1
+Voting points: jnh00 1
+Voting points: mf200 1
+The tested faces 20 is: mf200
+The output of the recognized class: jb300e
+Projecting 22/60
+Voting points: dg00 2
+Voting points: dm100 1
+The tested faces 21 is: dg00
+The output of the recognized class: dg00
+Projecting 23/60
+Voting points: jl400 2
+Voting points: paj00 1
+The tested faces 22 is: jl400
+The output of the recognized class: jl400
+Projecting 24/60
+Voting points: wyt98 3
+The tested faces 23 is: wyt98
+The output of the recognized class: wyt98
+Projecting 25/60
+Voting points: ap400 1
+Voting points: era02 2
+The tested faces 24 is: era02
+The output of the recognized class: era02
+Projecting 26/60
+Voting points: ap400 2
+Voting points: era02 1
+The tested faces 25 is: ap400
+The output of the recognized class: ap400
+Projecting 27/60
+Voting points: mzm00 2
+Voting points: yjs00e 1
+The tested faces 26 is: mzm00
+The output of the recognized class: mzm00
+Projecting 28/60
+Voting points: jasa98 1
+Voting points: sc300m 2
+The tested faces 27 is: sc300m
+The output of the recognized class: sc300m
+Projecting 29/60
+Voting points: dsl00m 1
+Voting points: jac100e 2
+The tested faces 28 is: jac100e
+The output of the recognized class: jac100e
+Projecting 30/60
+Voting points: bdr00 1
+Voting points: cmt00m 1
+Voting points: dsl00m 1
+The tested faces 29 is: dsl00m
+The output of the recognized class: bdr00
+Projecting 31/60
+Voting points: jnh00 2
+Voting points: mf200 1
+The tested faces 30 is: jnh00
+The output of the recognized class: jnh00
+Projecting 32/60
+Voting points: arr00 3
+The tested faces 31 is: arr00
+The output of the recognized class: arr00
+Projecting 33/60
+Voting points: ad499 1
+Voting points: dwr00 2
+The tested faces 32 is: dwr00
+The output of the recognized class: dwr00
+Projecting 34/60
+Voting points: om00e 2
+Voting points: vvw00e 1
+The tested faces 33 is: om00e
+The output of the recognized class: om00e
+Projecting 35/60
+Voting points: ad499 1
+Voting points: dwr00 1
+Voting points: mha00 1
+The tested faces 34 is: ad499
+The output of the recognized class: ad499
+Projecting 36/60
+Voting points: gp200e 2
+Voting points: rb200m 1
+The tested faces 35 is: gp200e
+The output of the recognized class: gp200e
+Projecting 37/60
+Voting points: ad499 1
+Voting points: mha00 2
+The tested faces 36 is: mha00
+The output of the recognized class: mha00
+Projecting 38/60
+Voting points: crn99 1
+Voting points: jdl99 2
+The tested faces 37 is: jdl99
+The output of the recognized class: jdl99
+Projecting 39/60
+Voting points: dg00 1
+Voting points: jnh00 1
+Voting points: jwa00 1
+The tested faces 38 is: jwa00
+The output of the recognized class: dg00
+Projecting 40/60
+Voting points: jhb02 3
+The tested faces 39 is: jhb02
+The output of the recognized class: jhb02
+Projecting 41/60
+Voting points: jac100e 1
+Voting points: svk00 2
+The tested faces 40 is: svk00
+The output of the recognized class: svk00
+Projecting 42/60
+Voting points: ic100e 1
+Voting points: jnh00 1
+Voting points: pjc99 1
+The tested faces 41 is: ic100e
+The output of the recognized class: ic100e
+Projecting 43/60
+Voting points: jb300e 1
+Voting points: yjs00e 2
+The tested faces 42 is: yjs00e
+The output of the recognized class: yjs00e
+Projecting 44/60
+Voting points: chy00 3
+The tested faces 43 is: chy00
+The output of the recognized class: chy00
+Projecting 45/60
+Voting points: om00e 1
+Voting points: vvw00e 2
+The tested faces 44 is: vvw00e
+The output of the recognized class: vvw00e
+Projecting 46/60
+Voting points: jasa98 2
+Voting points: jdl99 1
+The tested faces 45 is: jasa98
+The output of the recognized class: jasa98
+Projecting 47/60
+Voting points: crn99 1
+Voting points: hsn00e 1
+Voting points: rb200m 1
+The tested faces 46 is: rb200m
+The output of the recognized class: crn99
+Projecting 48/60
+Voting points: jb300e 1
+Voting points: mp400 2
+The tested faces 47 is: mp400
+The output of the recognized class: mp400
+Projecting 49/60
+Voting points: bdr00 2
+Voting points: mf200 1
+The tested faces 48 is: bdr00
+The output of the recognized class: bdr00
+Projecting 50/60
+Voting points: cmt00m 1
+Voting points: jr200 2
+The tested faces 49 is: jr200
+The output of the recognized class: jr200
+Projecting 51/60
+Voting points: cmt00m 1
+Voting points: dsl00m 1
+Voting points: jr200 1
+The tested faces 50 is: cmt00m
+The output of the recognized class: cmt00m
+Projecting 52/60
+Voting points: tcl00 3
+The tested faces 51 is: tcl00
+The output of the recognized class: tcl00
+Projecting 53/60
+Voting points: kl100 2
+Voting points: mp400 1
+The tested faces 52 is: kl100
+The output of the recognized class: kl100
+Projecting 54/60
+Voting points: paj00 1
+Voting points: pmn00e 2
+The tested faces 53 is: pmn00e
+The output of the recognized class: pmn00e
+Projecting 55/60
+Voting points: ks200 1
+Voting points: tel99 2
+The tested faces 54 is: tel99
+The output of the recognized class: tel99
+Projecting 56/60
+Voting points: arr00 1
+Voting points: jcs100 2
+The tested faces 55 is: jcs100
+The output of the recognized class: jcs100
+Projecting 57/60
+Voting points: mh500 2
+Voting points: pjw00 1
+The tested faces 56 is: mh500
+The output of the recognized class: mh500
+Projecting 58/60
+Voting points: jcs100 1
+Voting points: sft99 2
+The tested faces 57 is: sft99
+The output of the recognized class: sft99
+Projecting 59/60
+Voting points: drj00 1
+Voting points: pjw00 2
+The tested faces 58 is: pjw00
+The output of the recognized class: pjw00
+Projecting 60/60
+Voting points: crn99 1
+Voting points: drj00 1
+Voting points: jasa98 1
+The tested faces 59 is: drj00
+The output of the recognized class: crn99
+done
+RESULT : correct=52 : wrong=8
+Accuracy[%]=86.6667
